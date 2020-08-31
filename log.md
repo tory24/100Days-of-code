@@ -12,7 +12,7 @@ I am using this challenge in an effort to train positive studying habits and to 
 Project Ideas:
 - Small JS web games: Tic Tac Toe, Text based game?
 - Website -> Heisenburgers
-* Total Days: 103
+* Total Days: 105
 <!--
 ### Day x: August 1, 2020
 **Today's Progress**:
@@ -23,6 +23,16 @@ Project Ideas:
 
 **Time**:
 -->
+
+### Day 32: August 31, 2020
+**Today's Progress**: Finished a small project, listed on my github - [Colour Flipper](https://github.com/tory24/Colour-Flipper). Also working to finalise my resume today.
+
+**Thoughts**: The Colour Flipper was fun and not too difficult to complete, was nice to see I haven't forgotten much CSS or HTML, and am able to use everything together to make a simple project.
+
+**Link(s) to Work**: [Colour Flipper](https://github.com/tory24/Colour-Flipper)
+
+**Time**: 2hrs
+
 
 ### Day 31: August 28, 2020
 **Today's Progress**: Worked on a suggested mini project, a colour flipper webpage.
