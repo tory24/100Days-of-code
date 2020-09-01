@@ -14,7 +14,7 @@ Project Ideas:
 - Website -> Heisenburgers
 * Total Days: 105
 <!--
-### Day x: August 1, 2020
+### Day x: September 1, 2020
 **Today's Progress**:
 
 **Thoughts**:
@@ -23,6 +23,16 @@ Project Ideas:
 
 **Time**:
 -->
+
+### Day 33: September 1, 2020
+**Today's Progress**: Finished a simple webpage counter, and started a simple Weather app.
+
+**Thoughts**: The webpage counter was super simple, and I wanted to keep it simple and just focus on making it work. Didn't take long at all. But after I decided to finally try and figure out how to implement a Weather API key in a weather app. My plan is to use vanilla js, html and css. So far I've been able to mostly do it by myself, however I will have to teach myself how to actually draw data from the api key. I will be working on that tomorrow.
+
+**Link(s) to Work**: [Counter](https://github.com/tory24/counter) [WeatherApp](https://github.com/tory24/weatherapi) 
+
+**Time**: 4 hours
+
 
 ### Day 32: August 31, 2020
 **Today's Progress**: Finished a small project, listed on my github - [Colour Flipper](https://github.com/tory24/Colour-Flipper). Also working to finalise my resume today.
