@@ -12,7 +12,7 @@ I am using this challenge in an effort to train positive studying habits and to 
 Project Ideas:
 - Small JS web games: Tic Tac Toe, Text based game?
 - Website -> Heisenburgers
-* Total Days: 105
+* Total Days: 106
 <!--
 ### Day x: September 1, 2020
 **Today's Progress**:
@@ -23,6 +23,16 @@ Project Ideas:
 
 **Time**:
 -->
+
+### Day 34: September 3, 2020
+**Today's Progress**: Worked on building my Weather API App.
+
+**Thoughts**: Had the HTML & CSS pretty much set with the Weather App, however I ended up copying the JavaScript from the app I was trying to emulate [George M. Weather App](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893). I realised my knowledge of fetch and APIs in general is too basic to have done it myself. However, I read through the JavaScript adding comments to it as I tried understanding what each line was trying to do, as a result I think I have a better understanding of what needs to be done, and will try make a slightly more basic version tomorrow, without help.
+
+**Link(s) to Work**: [WeatherApp](https://github.com/tory24/weatherapi) 
+
+**Time**: 4 hours
+
 
 ### Day 33: September 1, 2020
 **Today's Progress**: Finished a simple webpage counter, and started a simple Weather app.
