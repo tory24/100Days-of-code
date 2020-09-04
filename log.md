@@ -24,6 +24,16 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 35: September 4, 2020
+**Today's Progress**: Worked on the Weather App again.
+
+**Thoughts**: Decided I would tinker with the existing JS today, altered it to show only the 2 most recent searches. Helped me to learn a little bit more about how the JS/HTML/CSS connection works, as I had to use a few new HTML DOM Methods. I think I'll move on and try build something new, and hopefully come back to this one day able to build the JS section by myself.
+
+**Link(s) to Work**: [WeatherApp](https://github.com/tory24/weatherapi) 
+
+**Time**: 3 hours
+
+
 ### Day 34: September 3, 2020
 **Today's Progress**: Worked on building my Weather API App.
 
