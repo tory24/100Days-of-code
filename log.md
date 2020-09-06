@@ -24,6 +24,16 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 37: September 6, 2020
+**Today's Progress**: Worked on an FCC Interview challenge question.
+
+**Thoughts**: Was quite difficult as it seemed easy at first, like the pallindrome question. I got very close to finding the solution, just need to remove the repeated elements from the array.
+
+**Link(s) to Work**: [FCC Interview Qs](challenges/interview-qs.js) 
+
+**Time**: 1.5 hours
+
+
 ### Day 35: September 4, 2020
 **Today's Progress**: Worked on the Weather App again.
 
