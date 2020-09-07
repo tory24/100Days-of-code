@@ -24,12 +24,22 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 38: September 7, 2020
+**Today's Progress**: Completed the FCC Symmetric Difference Question. Worked on changing my weatherapp JS from a Promise to an Async Await function.
+
+**Thoughts**: Was confused by how to find the result, but realised my error and came up with the correct solution much faster than my old one.
+
+**Link(s) to Work**: [Q1 Symmetric Difference](challenges/interview-qs.js) 
+
+**Time**: 3hours
+
+
 ### Day 37: September 6, 2020
 **Today's Progress**: Worked on an FCC Interview challenge question.
 
 **Thoughts**: Was quite difficult as it seemed easy at first, like the pallindrome question. I got very close to finding the solution, just need to remove the repeated elements from the array.
 
-**Link(s) to Work**: [FCC Interview Qs](challenges/interview-qs.js) 
+**Link(s) to Work**: [Q1 Symmetric Difference](challenges/interview-qs.js) 
 
 **Time**: 1.5 hours
 
