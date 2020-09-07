@@ -27,11 +27,11 @@ Project Ideas:
 ### Day 38: September 7, 2020
 **Today's Progress**: Completed the FCC Symmetric Difference Question. Worked on changing my weatherapp JS from a Promise to an Async Await function.
 
-**Thoughts**: Was confused by how to find the result, but realised my error and came up with the correct solution much faster than my old one.
+**Thoughts**: Symmetric Difference Question: Was confused by how to find the result, but realised my error and came up with the correct solution much faster than my old one. For the WeatherApp I decided to change the fetch method, and turn it into an Async-await function, I'm quite happy with how it works, am feeling more and more confident in my abilities. My next goal is to try create something a little more interesting without much assistance.
 
-**Link(s) to Work**: [Q1 Symmetric Difference](challenges/interview-qs.js) 
+**Link(s) to Work**: [Q1 Symmetric Difference](challenges/interview-qs.js), [WeatherApp](https://github.com/tory24/weatherapi)
 
-**Time**: 3hours
+**Time**: 4hours
 
 
 ### Day 37: September 6, 2020
