@@ -24,6 +24,26 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 40: September 9, 2020
+**Today's Progress**: Worked on Codecademy some more, recreating a simplified version of the Lodash library.
+
+**Thoughts**: This was originally a challenge I gave up on when I first started learning, purely because I just hadn't learnt enough, and it scared me. However coming back, while it seemed foreign, it was actually fairly simple. The prebuilt tests that the program provided didn't make sense to me when I originally attempted this, however this time through I understood how to actually use them to help me find the solution without resorting to the youtube explanation they provide.
+
+**Link(s) to Work**: [Lodash Library](challenges/simple-lodash.js): This is just the code I wrote.
+
+**Time**: 4 hours
+
+
+### Day 39: September 8, 2020
+**Today's Progress**: Worked on understanding how to resolve issues on Github.
+
+**Thoughts**: I think I understand how issues work, however the challenge I was given by a friend, I wasn't sure how to complete. I am planning on coming back to this in a few days.
+
+**Link(s) to Work**: N/A
+
+**Time**: 2 hours
+
+
 ### Day 38: September 7, 2020
 **Today's Progress**: Completed the FCC Symmetric Difference Question. Worked on changing my weatherapp JS from a Promise to an Async Await function.
 
