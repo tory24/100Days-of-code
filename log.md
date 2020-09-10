@@ -24,6 +24,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 41: September 10, 2020
+**Today's Progress**: Decided to do some revision on Classes through Codecademy.
+
+**Thoughts**: Went back through the lessons on Coddecademy, was much easier this time around, though I had forgotten some smaller details. Planning on trying to finish the Codecademy course as it covers some important information about Async-await & Promises and how they tie into front-end web development. These lessons I attempted doing early on in my studies but felt I had little idea about what I was learning.
+
+**Time**: 2 hours.
+
+
 ### Day 40: September 9, 2020
 **Today's Progress**: Worked on Codecademy some more, recreating a simplified version of the Lodash library.
 
@@ -38,8 +46,6 @@ Project Ideas:
 **Today's Progress**: Worked on understanding how to resolve issues on Github.
 
 **Thoughts**: I think I understand how issues work, however the challenge I was given by a friend, I wasn't sure how to complete. I am planning on coming back to this in a few days.
-
-**Link(s) to Work**: N/A
 
 **Time**: 2 hours
 
@@ -109,8 +115,6 @@ Project Ideas:
 
 **Thoughts**: Decided to try do a small project, which I found online. Goal is to create a basic webpage where you click a button and the background colour of the page changes to a new colour, and that colour's RGB values also show on the page. 
 
-**Link(s) to Work**: N/A
-
 **Time**: 2hours
 
 
@@ -140,8 +144,6 @@ Project Ideas:
 **Today's Progress**: Worked on a coding interview style question from a friend, check to see if a string is an anagram or not. Also tried working on the register question again, but will have to finish it tomorrow.
 
 **Thoughts**: The anagram question was quite easy, finished it fully within an hour. Was able to get it to check against a single string, but also return a new array of all anagrams of the 'str1' in a longer string 'book'. Also made it able to ignore punctuation, like commas, or apostrophes. Am not sure of how to make it work in languages other than English though.
-
-**Link(s) to Work**: Soon
 
 **Time**: 4 hours
 
@@ -202,8 +204,6 @@ Project Ideas:
 
 **Thoughts**: Is still a lot of fun trying to figure out how design my own website, focusing on using CSS grid, but having to understand how the design reacts to new elements, as I am adding to the HTML doc as I go. Probably not the best way to do this, but it's at least testing my knowledge and also helping me apply some of what I've learnt.
 
-**Link(s) to Work**: N/A
-
 **Time**: 120min
 
 
@@ -211,8 +211,6 @@ Project Ideas:
 **Today's Progress**: Worked on my website project.
 
 **Thoughts**: Been a busy couple of days, but got through a bit of my website project, and tried doing the algorithm's but felt like doing some work on the website instead to break things up.
-
-**Link(s) to Work**: N/A
  
 **Time**: 40min
 
@@ -221,8 +219,6 @@ Project Ideas:
 **Today's Progress**: Had a very busy start to the weekend, so only managed 40 minutes, will make up the time tomorrow.
 
 **Thoughts**: Trying to figure out how to flatten a nested array without using flat() or flatMap().
-
-**Link(s) to Work**: N/A
 
 **Time**: 40min
 
@@ -293,8 +289,6 @@ I do know though, that my solution isn't very efficient, and would probably be q
 
 **Thoughts**: Was tough getting through the question, I am resorting to searching google, which feels like cheating. But I know that google is a programmer's best friend, so it's very much a last resort while I'm learning.
 
-**Link(s) to Work**: N/A
-
 **Time**: 80min
 
 
@@ -303,8 +297,6 @@ I do know though, that my solution isn't very efficient, and would probably be q
 
 **Thoughts**: I really enjoy working on a project like this, it's frustrating but in a fun and challenging way. Feels like I'm trying to problem solve constantly, to figure out how best to design my webpage so that the elements work together. Project is currently in a private repo, hopefully I'll be happy with it soon and make it public!
 
-**Link(s) to Work**: N/A
-
 **Time**: 200min
 
 
@@ -312,8 +304,6 @@ I do know though, that my solution isn't very efficient, and would probably be q
 **Today's Progress**: Today was tough, this question was difficult, did not make it 60minutes, will make up for that tomorrow.
 
 **Thoughts**: Was unable to complete Q3 by myself, ended up looking at the result to try understand how to answer the question. The challenge required an understanding of 'arguments' which I had not learnt about, or understood how to use correctly after seeing the answer. A bit of a disappointing day.
-
-**Link(s) to Work**: N/A
 
 **Time**: 40min
 
@@ -366,8 +356,6 @@ Will have to add 30minutes to tomorrow.
 
 **Thoughts**: Slowly learning how to stay patient and stick with it. Also have to remember how important it is to really think outside the box (as lame as that sounds). For example, the challenge from yesterday, while I managed to find an answer, each function was able to be done in just a single line of code. I find I can over-complicate my answers, hopefully with experience I'll start to learn how to be more concise.
 
-**Link(s) to Work**: N/A
-
 **Time**: 60min
 
 
@@ -378,8 +366,6 @@ Will have to add 30minutes to tomorrow.
 
 Also came across this today: console.log(!![] + !![]); //Output: 2
 - My understanding (after some googling), we're converting an empty array (truthy) to false then back to true through a double negative, so essentially it's true + true. The '+' sign converts true to 1, and false would be treated as 0.
-
-**Link(s) to Work**: N/A.
 
 **Time**: 120min~
 
@@ -412,8 +398,6 @@ I am currently halfway through the 'Object Oriented Programming' section of the 
 **Today's Progress**: Learning how to use and update this forked repo. Also quickly learning markdown file syntax.
 
 **Thoughts**: Already have some understand of git and github, but still learning exactly how my actions affect github repos. Hopefully this will provide some positive habits and this is not something I usually do (essentially blogging), so it is all new and slightly out of my comfort zone. Also trying to decide whether I should put my most recent day at the top or bottom...
-
-**Link(s) to Work**: N/A
 
 
 
