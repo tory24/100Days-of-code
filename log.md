@@ -24,6 +24,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 42: September 11, 2020
+**Today's Progress**: Continued studying, moved onto Modules refresher.
+
+**Thoughts**: I'm aiming to use these few days of refresher lesson to apply to a project. Just need to think of an appropriate project.
+
+**Time**: 1hour
+
+
 ### Day 41: September 10, 2020
 **Today's Progress**: Decided to do some revision on Classes through Codecademy.
 
