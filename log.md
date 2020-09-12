@@ -24,6 +24,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 43: September 12, 2020
+**Today's Progress**: Had a quick look into how to implement a HTTP Request Limiter.
+
+**Thoughts**: A lot of confusing info, but I'm looking to try see if I can implement it into my weatherapp, something basic but hopefully it'll help me better understand how it works/how to implement a system.
+
+**Time**: 1hr
+
+
 ### Day 42: September 11, 2020
 **Today's Progress**: Continued studying, moved onto Modules refresher.
 
