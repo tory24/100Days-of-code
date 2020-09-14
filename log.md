@@ -24,6 +24,12 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 44: September 13, 2020
+**Today's Progress**: Worked on Codecademy again, reviewed Modules again.
+
+**Time**: 1 hour
+
+
 ### Day 43: September 12, 2020
 **Today's Progress**: Had a quick look into how to implement a HTTP Request Limiter.
 
