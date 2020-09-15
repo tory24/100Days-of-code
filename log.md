@@ -24,8 +24,25 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 46: September 15, 2020
+**Today's Progress**: Worked some more on FreeCodeCamp, went through the Bootstrap Course.
+
+**Thoughts**: Really interesting, makes CSS far simpler in my opinion, and helps reduce some of the quirks from aligning/designing items through CSS, but it does seem to make HTML look a bit more messy.
+
+**Time**: 3 hours
+
+### Day 45: September 14, 2020
+**Today's Progress**: Read some articles, and looked into how backend works with storing data.
+
+**Thoughts**: I think this was a bit more than I could understand currently, but I am determined to understand how storing and retrieving data works in more depth eventually. Also quickly figured out how to run JS files through Terminal, something that I have been meaning to look into for a while. Turns out it's super straightforward.
+
+**Time**:1.5 hours
+
+
 ### Day 44: September 13, 2020
 **Today's Progress**: Worked on Codecademy again, reviewed Modules again.
+
+**Thoughts**: Nothing too exciting, just some more revision today.
 
 **Time**: 1 hour
 

@@ -6,7 +6,7 @@ function palindrome(str) {
     return (forward === backward);
 }
   
-palindrome("A man, a plan, a canal. Panama");
+console.log(palindrome("A man, a plan, a canal. Panama"));
 
 //Q2 Roman Numeral Converter
 function convertToRoman(num) {
@@ -31,7 +31,7 @@ function convertToRoman(num) {
   }
   return romanNum.reverse().join('');
 }   
-convertToRoman(4);
+console.log(convertToRoman(4));
 
 
 
@@ -44,7 +44,7 @@ function rot13(str) {
            : i;
     }).join('');
 }
-rot13("VG'F N-ZR ZNEVB!");
+console.log(rot13("VG'F N-ZR ZNEVB!"));
 
 
 
@@ -128,4 +128,4 @@ function checkCashRegister(price, cash, cid) {
     return status;
   }
 }
-checkCashRegister(19.5, 20, [["PENNY", 0.01], ["NICKEL", 0.1], ["DIME", 1.5], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]);
+console.log(checkCashRegister(19.5, 20, [["PENNY", 0.01], ["NICKEL", 0.1], ["DIME", 1.5], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]));
