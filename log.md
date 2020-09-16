@@ -24,6 +24,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day x: September 1, 2020
+**Today's Progress**: Started the jQuery section of this FCC course.
+
+**Thoughts**: While this course seems a little bare bones compared to the JS course, it's made me far more confident in understanding these essential frameworks and libraries.
+
+**Time**: 1 hour
+
+
 ### Day 46: September 15, 2020
 **Today's Progress**: Worked some more on FreeCodeCamp, went through the Bootstrap Course.
 
