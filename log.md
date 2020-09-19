@@ -25,6 +25,30 @@ Project Ideas:
 -->
 
 ### Day x: September 1, 2020
+**Today's Progress**: Started building the page.
+
+**Thoughts**: Started making a basic webpage, to get a basic look first, and also I didn't have much time to get into it today, being a Saturday. Also got to use a bit of Bootstrap.
+
+**Time**: 1 hour
+
+
+### Day 49: September 18, 2020
+**Today's Progress**: Started to plan out an app that puts out a random image from NASA's Image & Video Library.
+
+**Thoughts**: Basically I want to use this to test out some basic Bootstrap or jQuery to build a simple webpage that puts out a random image while also learning how to use an API. However this time I plan on doing it completely by myself.
+
+**Time**: 2 hours
+
+
+### Day 48: September 17, 2020
+**Today's Progress**: Finished the jQuery course, started Sass.
+
+**Thoughts**: Enjoyed learning jQuery, seems very handy, I'm excited to give it a go soon, maybe add it to some existing small projects to see if I can improve them. Started the intro to Sass, but I think I want to quickly try out Bootstrap and jQuery on something first, maybe tomorrow.
+
+**Time**: 3-4 hours
+
+
+### Day 47: September 16, 2020
 **Today's Progress**: Started the jQuery section of this FCC course.
 
 **Thoughts**: While this course seems a little bare bones compared to the JS course, it's made me far more confident in understanding these essential frameworks and libraries.
