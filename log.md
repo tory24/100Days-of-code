@@ -24,7 +24,15 @@ Project Ideas:
 **Time**:
 -->
 
-### Day x: September 1, 2020
+### Day 51: September 20, 2020
+**Today's Progress**: Worked a bit more on the page design.
+
+**Thoughts**: Finding it hard to get a lot done on weekends, but plan on working on getting the API to work tomorrow, then build from there.
+
+**Time**: 1 hour
+
+
+### Day 50: September 19, 2020
 **Today's Progress**: Started building the page.
 
 **Thoughts**: Started making a basic webpage, to get a basic look first, and also I didn't have much time to get into it today, being a Saturday. Also got to use a bit of Bootstrap.
