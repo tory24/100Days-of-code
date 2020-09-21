@@ -24,6 +24,17 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 52: September 21, 2020
+**Today's Progress**: Essentially completed the NASA Random Image API.
+
+**Thoughts**: Was enjoyable, I managed to figure out how to draw data from the API using NASA's API Documentation as well as some trial and error. I also wrote the async await function myself and got it working with the HTML doc. Then started fixing up some page issues, like centering the image & adding a box to the image description.
+Tomorrow I'll try fix up a couple more things, but otherwise I'm super happy with how it turned out.
+
+**Link(s) to Work**: [Deep Space Curiosity](https://github.com/tory24/deepSpaceCuriosity)
+
+**Time**: 5 hours
+
+
 ### Day 51: September 20, 2020
 **Today's Progress**: Worked a bit more on the page design.
 
