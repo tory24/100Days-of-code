@@ -24,6 +24,28 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 54: September 23, 2020
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to Work**:
+
+**Time**:
+
+
+### Day 53: September 22, 2020
+**Today's Progress**: I've begun applying for jobs as of today. I also updated my NASA Image Tool [Deep Space Curiosity](https://github.com/tory24/deepSpaceCuriosity).
+
+**Thoughts**: Nervous, because obviously I haven't done a computer science degree. But I guess I'll test the waters and hope for the best. Ideally, I want a role where I'll be supported and can learn and grow by interacting & working alongside more experienced and knowledgeable Engineers. Regardless I still need to study and learn as much as I can and I think I've made some good progress in these last 8 or 9 months.
+
+For the Image Tool, I decided that trying to implement particle effects myself is just way above my ability, and unnecessary when there's already a free tool out there ready to use. I had trouble integrating it initially, so I basically started a new file to get particles.js working first, then added my existing code on top of that and it turned out really nice.
+
+**Link(s) to Work**: [Deep Space Curiosity](https://github.com/tory24/deepSpaceCuriosity)
+
+**Time**: 3 hours~
+
+
 ### Day 52: September 21, 2020
 **Today's Progress**: Essentially completed the NASA Random Image API.
 
