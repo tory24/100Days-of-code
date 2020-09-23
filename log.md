@@ -25,13 +25,11 @@ Project Ideas:
 -->
 
 ### Day 54: September 23, 2020
-**Today's Progress**: 
+**Today's Progress**: Worked through some of FCC's Sass section of the Frontend Development Course.
 
-**Thoughts**:
+**Thoughts**: Finished up my resume, and finally started to apply at some companies, so we shall see how that goes. Also worked through some lessons on Sass.
 
-**Link(s) to Work**:
-
-**Time**:
+**Time**: 3 hours
 
 
 ### Day 53: September 22, 2020
@@ -39,7 +37,7 @@ Project Ideas:
 
 **Thoughts**: Nervous, because obviously I haven't done a computer science degree. But I guess I'll test the waters and hope for the best. Ideally, I want a role where I'll be supported and can learn and grow by interacting & working alongside more experienced and knowledgeable Engineers. Regardless I still need to study and learn as much as I can and I think I've made some good progress in these last 8 or 9 months.
 
-For the Image Tool, I decided that trying to implement particle effects myself is just way above my ability, and unnecessary when there's already a free tool out there ready to use. I had trouble integrating it initially, so I basically started a new file to get particles.js working first, then added my existing code on top of that and it turned out really nice.
+For the Image Tool, I decided that trying to implement particle effects myself is just way above my ability, and unnecessary when there's already a free tool out there ready to use. I had trouble integrating it initially, but once I got it working, it turned out really nice & exactly as I wanted.
 
 **Link(s) to Work**: [Deep Space Curiosity](https://github.com/tory24/deepSpaceCuriosity)
 
