@@ -24,6 +24,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 55: September 24, 2020
+**Today's Progress**: Finished off the Sass lessons.
+
+**Thoughts**: Sass seems interesting and very useful once I start working with larger CSS files, and it's useful that it works very similarly to JavaScript with @while, @for etc.
+
+**Time**: 2 hours
+
+
 ### Day 54: September 23, 2020
 **Today's Progress**: Worked through some of FCC's Sass section of the Frontend Development Course.
 
