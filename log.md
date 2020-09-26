@@ -24,6 +24,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 57: September 26, 2020
+**Today's Progress**: Worked through some more React/JSX lessons.
+
+**Thoughts**: Interested to see how I can implement it myself in a project, but it mostly seems as something that is more beneficial with larger projects.
+
+**Time**: 1 hour
+
+
 ### Day 56: September 25, 2020
 **Today's Progress**: Began the React lessons in the Frontend Course.
 
