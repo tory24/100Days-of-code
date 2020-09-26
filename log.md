@@ -4,9 +4,9 @@ I am using this challenge in an effort to train positive studying habits and to 
 
 **My Plan**:
 * I will spend a minimum of 1 hour a day learning more about JavaScript and Front End Libraries through FCC's online courses, as well as other resources.
-* I will try apply my knowledge by creating some small projects.
+* I will try apply my new knowledge by creating some small projects.
 * I aim to have a minimum of 3 small projects completed by the end of the challenge.
-* I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website.
+* I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website (Dependent on how my personal projects go).
 
 <!-- 
 Project Ideas:
@@ -23,6 +23,14 @@ Project Ideas:
 
 **Time**:
 -->
+
+### Day 56: September 25, 2020
+**Today's Progress**: Began the React lessons in the Frontend Course.
+
+**Thoughts**: I've done some React through Codecademy, but I had to stop because I hadn't learnt enough JS, HTML or just enough in general, so it was more confusing than helpful. But this time round it's much easier to understand.
+
+**Time**: 2 hours
+
 
 ### Day 55: September 24, 2020
 **Today's Progress**: Finished off the Sass lessons.
