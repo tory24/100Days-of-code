@@ -7,12 +7,13 @@ I am using this challenge in an effort to train positive studying habits and to 
 * I will try apply my new knowledge by creating some small projects.
 * I aim to have a minimum of 3 small projects completed by the end of the challenge.
 * I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website (Dependent on how my personal projects go).
+* Total Days: 107
 
 <!-- 
 Project Ideas:
 - Small JS web games: Tic Tac Toe, Text based game?
 - Website -> Heisenburgers
-* Total Days: 106
+
 <!--
 ### Day x: September 1, 2020
 **Today's Progress**:
@@ -23,6 +24,12 @@ Project Ideas:
 
 **Time**:
 -->
+
+### Day 59: September 28, 2020
+**Today's Progress**: Working through more React lessons, and tried out vim in VS Code.
+
+**Time**: 2 hours
+
 
 ### Day 57: September 26, 2020
 **Today's Progress**: Worked through some more React/JSX lessons.
