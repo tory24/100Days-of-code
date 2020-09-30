@@ -25,6 +25,24 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 61: September 30, 2020
+**Today's Progress**: Worked on an Algorithm question, related to a friends project & did some more React.
+
+**Thoughts**: I hadn't done much in the way of JS algorithms for a while now, was good to give it a go again.
+
+**Link(s) to Work**: [Array Length Question](challenges/arrLength.js)
+
+**Time**: 3 hours
+
+
+### Day 60: September 29, 2020
+**Today's Progress**: Helped a friend with some frontend work on their personal project.
+
+**Thoughts**: First time really giving it a go working on a relatively large project, was quite confusing at first, as it was primarily in Ruby, but I was being asked to try fix some of the frontend side of things.
+
+**Time**: 2 hours
+
+
 ### Day 59: September 28, 2020
 **Today's Progress**: Working through more React lessons, and tried out vim in VS Code.
 
