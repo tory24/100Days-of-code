@@ -15,7 +15,7 @@ Project Ideas:
 - Website -> Heisenburgers
 
 <!--
-### Day x: September 1, 2020
+### Day x: October 1, 2020
 **Today's Progress**:
 
 **Thoughts**:
@@ -24,6 +24,12 @@ Project Ideas:
 
 **Time**:
 -->
+
+### Day 62: October 1, 2020
+**Today's Progress**: Work some more through React.
+
+**Time**: 90 minutes
+
 
 ### Day 61: September 30, 2020
 **Today's Progress**: Worked on an Algorithm question, related to a friends project & did some more React.
