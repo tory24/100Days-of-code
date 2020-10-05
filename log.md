@@ -7,7 +7,7 @@ I am using this challenge in an effort to train positive studying habits and to 
 * I will try apply my new knowledge by creating some small projects.
 * I aim to have a minimum of 3 small projects completed by the end of the challenge.
 * I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website (Dependent on how my personal projects go).
-* Total Days: 107
+* Total Days: 111
 
 <!-- 
 Project Ideas:
@@ -24,6 +24,14 @@ Project Ideas:
 
 **Time**:
 -->
+
+### Day 66: October 5, 2020
+**Today's Progress**: Worked through more React.
+
+**Thoughts**: Worked through more React questions, haven't really had much time this long weekend to work each day unfortunately. Will be able to make up for it this week + days added to total.
+
+**Time**: 1 hour
+
 
 ### Day 62: October 1, 2020
 **Today's Progress**: Work some more through React.
