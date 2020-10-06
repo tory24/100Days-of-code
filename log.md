@@ -25,6 +25,12 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 67: October 6, 2020
+**Today's Progress**: Worked through more React.
+
+**Time**: 3 hours
+
+
 ### Day 66: October 5, 2020
 **Today's Progress**: Worked through more React.
 
