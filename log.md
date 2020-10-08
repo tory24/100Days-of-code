@@ -25,6 +25,20 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 69: October 8, 2020
+**Today's Progress**: Worked on more React, & tried learning more Vim interactions.
+
+**Thoughts**: Vim's cool, going to take a while to remember all the important keys and to use them quickly. React's interesting, and kind of confusing with so how 'this' is used so often and in different ways.
+
+**Time**: 3 hours
+
+
+### Day 68: October 7, 2020
+**Today's Progress**: More React.
+
+**Time**: 2 hour
+
+
 ### Day 67: October 6, 2020
 **Today's Progress**: Worked through more React.
 
