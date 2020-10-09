@@ -7,7 +7,7 @@ I am using this challenge in an effort to train positive studying habits and to 
 * I will try apply my new knowledge by creating some small projects.
 * I aim to have a minimum of 3 small projects completed by the end of the challenge.
 * I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website (Dependent on how my personal projects go).
-* Total Days: 107
+* Total Days: 111
 
 <!-- 
 Project Ideas:
@@ -25,10 +25,38 @@ Project Ideas:
 **Time**:
 -->
 
-### Day x: October 1, 2020
+### Day 70: October 9, 2020
 **Today's Progress**: Started learning about React Lifecycle Methods.
 
 **Thoughts**: Interesting topic, only just started, but a little confusing so I'm trying to get more of an understanding of it, than FCC's limited explanations.
+
+**Time**: 1 hour~
+
+
+### Day 69: October 8, 2020
+**Today's Progress**: Worked on more React, & tried learning more Vim interactions.
+
+**Thoughts**: Vim's cool, going to take a while to remember all the important keys and to use them quickly. React's interesting, and kind of confusing with so how 'this' is used so often and in different ways.
+
+**Time**: 3 hours
+
+
+### Day 68: October 7, 2020
+**Today's Progress**: More React.
+
+**Time**: 2 hour
+
+
+### Day 67: October 6, 2020
+**Today's Progress**: Worked through more React.
+
+**Time**: 3 hours
+
+
+### Day 66: October 5, 2020
+**Today's Progress**: Worked through more React.
+
+**Thoughts**: Worked through more React questions, haven't really had much time this long weekend to work each day unfortunately. Will be able to make up for it this week + days added to total.
 
 **Time**: 1 hour
 
