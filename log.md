@@ -25,6 +25,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day x: October 1, 2020
+**Today's Progress**: Started learning about React Lifecycle Methods.
+
+**Thoughts**: Interesting topic, only just started, but a little confusing so I'm trying to get more of an understanding of it, than FCC's limited explanations.
+
+**Time**: 1 hour
+
+
 ### Day 62: October 1, 2020
 **Today's Progress**: Work some more through React.
 
