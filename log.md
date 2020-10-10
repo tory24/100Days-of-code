@@ -25,6 +25,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 71: October 10, 2020
+**Today's Progress**: Read up on Lifecycle Methods.
+
+**Thoughts**: Didn't get much time in today, Parra got knocked out... :(. But got some time to look into Lifecycle methods some more, as I just wasn't understanding how they worked. It's beginning to make a bit more sense now.
+
+**Time**: 1 hour
+
+
 ### Day 70: October 9, 2020
 **Today's Progress**: Started learning about React Lifecycle Methods.
 
