@@ -25,8 +25,16 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 72: October 11, 2020
+**Today's Progress**: Spent some more time looking into React lifecycle methods.
+
+**Thoughts**: Hoping to go back to the FCC course tomorrow hopefully some things will make a bit more sense. But I think it's hard to see the bigger picture when learning something until I use it in an actual project. So once I finish this course I'll try build something small again.
+
+**Time**: 1 hour
+
+
 ### Day 71: October 10, 2020
-**Today's Progress**: Read up on Lifecycle Methods.
+**Today's Progress**: Read up on lifecycle Methods.
 
 **Thoughts**: Didn't get much time in today, Parra got knocked out... :(. But got some time to look into Lifecycle methods some more, as I just wasn't understanding how they worked. It's beginning to make a bit more sense now.
 
