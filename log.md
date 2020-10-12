@@ -25,6 +25,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 73: October 12, 2020
+**Today's Progress**: Worked through more React
+
+**Thoughts**: The idea of lifecycle methods makes far more sense today, and I feel like I finally made it over this hump, where I didn't feel like I was learning much and was struggling to understand the concepts completely.
+
+**Time**: 2-3 hours
+
+
 ### Day 72: October 11, 2020
 **Today's Progress**: Spent some more time looking into React lifecycle methods.
 
