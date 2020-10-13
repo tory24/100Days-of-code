@@ -25,6 +25,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 74: October 13, 2020
+**Today's Progress**: More React, almost finished
+
+**Thoughts**: Thing's are starting to come together and make more sense, hopefully once I get to tougher questions I'll be able to piece everything together, and use everything correctly.
+
+**Time**: 1.5 hours~
+
+
 ### Day 73: October 12, 2020
 **Today's Progress**: Worked through more React
 
