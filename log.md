@@ -25,6 +25,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 75: October 14, 2020
+**Today's Progress**: Didn't have much time today, so I decided to look into how the Browser Render Cycle works.
+
+**Thoughts**: Figured it might be a useful bit of knowledge, just to have a bit of a more technical understanding of how things work behind the scenes.
+
+**Time**: 1 hour~
+
+
 ### Day 74: October 13, 2020
 **Today's Progress**: More React, almost finished
 
