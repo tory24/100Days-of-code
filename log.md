@@ -25,6 +25,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 76: October 15, 2020
+**Today's Progress**: Worked through React and finished looking into the Browser Render cycle.
+
+**Thoughts**: Interesting, learnt about the general aspects of the browser render cycle, how to optimise it for a better user experience & how to analyse through devTools. Also finished the day doing some more React stuff, almost finished the subject.
+
+**Time**: 3 hours~ 
+
+
 ### Day 75: October 14, 2020
 **Today's Progress**: Didn't have much time today, so I decided to look into how the Browser Render Cycle works.
 
