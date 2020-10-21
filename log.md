@@ -25,6 +25,28 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 82: October 21, 2020
+**Today's Progress**: Worked more on Redux.
+
+**Thoughts**: Have been pretty busy recently, but trying to squeeze in at least an hour per day.
+
+**Time**: 2 hours~
+
+
+### Day 81: October 20, 2020
+**Today's Progress**: Worked through some Redux.
+
+**Time**: 1 hour~
+
+
+### Day 80: October 19, 2020
+**Today's Progress**: Started on Redux.
+
+**Thoughts**: Seems interesting, and pretty integral to React. It seems to essentially be a JS object that stores React state.
+
+**Time**: 3 hours
+
+
 ### Day 79: October 18, 2020
 **Today's Progress**: Finished React
 
