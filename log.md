@@ -25,6 +25,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day x: October 1, 2020
+**Today's Progress**: Read an article on JS.
+
+**Thoughts**: Felt like a break from the lessons.
+
+**Time**: 1 hour
+
+
 ### Day 82: October 21, 2020
 **Today's Progress**: Worked more on Redux.
 
