@@ -7,7 +7,7 @@ I am using this challenge in an effort to train positive studying habits and to 
 * I will try apply my new knowledge by creating some small projects.
 * I aim to have a minimum of 3 small projects completed by the end of the challenge.
 * I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website (Dependent on how my personal projects go).
-* Total Days: 112
+* Total Days: 116
 
 <!-- 
 Project Ideas:
@@ -25,7 +25,16 @@ Project Ideas:
 **Time**:
 -->
 
-### Day x: October 1, 2020
+### Day 88: October 27, 2020
+**Today's Progress**: Decided to try do some JS Algorithms challenges on FreeCodeCamp.
+
+**Thoughts**: Was enjoyable to test myself again, after spending the last couple of weeks trying to learn about React and Frontend Libraries.
+
+**Link(s) to Work**:
+
+**Time**: 2 hours
+
+### Day 83: October 22, 2020
 **Today's Progress**: Read an article on JS.
 
 **Thoughts**: Felt like a break from the lessons.
