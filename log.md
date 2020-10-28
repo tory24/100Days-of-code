@@ -25,12 +25,20 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 89: October 28, 2020
+**Today's Progress**: Worked on more JS Algorithms & got back into React
+
+**Thoughts**: I had lost some confidence in my JS knowledge, how doing these small challenges helped me a lot, but I realised I need to keep testing myself so that I don't forget anything.
+
+**Time**: 3 hours~
+
+
 ### Day 88: October 27, 2020
 **Today's Progress**: Decided to try do some JS Algorithms challenges on FreeCodeCamp.
 
 **Thoughts**: Was enjoyable to test myself again, after spending the last couple of weeks trying to learn about React and Frontend Libraries.
 
-**Link(s) to Work**:
+**Link(s) to Work**: [Inventory Update Challenge](challenges/inventory-update.js)
 
 **Time**: 2 hours
 
