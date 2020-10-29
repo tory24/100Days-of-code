@@ -25,6 +25,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 90: October 29, 2020
+**Today's Progress**: Did some study on CORS. 
+
+**Thoughts**: Wanted to get a bit of a deeper understanding about what exactly CORS is and how it works.
+
+**Time**: 2 hours
+
+
 ### Day 89: October 28, 2020
 **Today's Progress**: Worked on more JS Algorithms & got back into React
 
