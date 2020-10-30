@@ -25,6 +25,12 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 91: October 30, 2020
+**Today's Progress**: Worked some more on React lesson, and applied for some roles.
+
+**Time**: 2 hours~
+
+
 ### Day 90: October 29, 2020
 **Today's Progress**: Did some study on CORS. 
 
