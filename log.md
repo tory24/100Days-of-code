@@ -7,7 +7,7 @@ I am using this challenge in an effort to train positive studying habits and to 
 * I will try apply my new knowledge by creating some small projects.
 * I aim to have a minimum of 3 small projects completed by the end of the challenge.
 * I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website (Dependent on how my personal projects go).
-* Total Days: 116
+* Total Days: 118
 
 <!-- 
 Project Ideas:
@@ -15,7 +15,7 @@ Project Ideas:
 - Website -> Heisenburgers
 
 <!--
-### Day x: October 1, 2020
+### Day x: November 1, 2020
 **Today's Progress**:
 
 **Thoughts**:
@@ -24,6 +24,16 @@ Project Ideas:
 
 **Time**:
 -->
+
+### Day 94: November 2, 2020
+**Today's Progress**: Worked on a old project, colour-flipper.
+
+**Thoughts**: Thought I would go back through a see if I could update any old repos, to add things I hadn't done at the time. Ended up making a single HTML page version of the Flipper that also converts RGB to Hex, rather than starting at a white page again when you choose RGB or Hex. Turned out to be more complicated than expected. But the issues had to do with how I was choosing to access and store the RGB values, so it would mess with the RGB to Hex conversion.
+
+**Link(s) to Work**:[Colour Flipper](https://github.com/tory24/Colour-Flipper)
+
+**Time**: 2-3 hours~
+
 
 ### Day 91: October 30, 2020
 **Today's Progress**: Worked some more on React lesson, and applied for some roles.
