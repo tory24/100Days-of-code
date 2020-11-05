@@ -25,6 +25,28 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 97: November 5, 2020
+**Today's Progress**: Studied OOP
+
+**Thoughts**: Decided to delve back into OOP and revise some topics, and also hopefully learn something new eventually.
+
+**Time**: 1.5 hours~
+
+
+### Day 96: November 4, 2020
+**Today's Progress**: Worked on Redux again.
+
+**Time**: 1 hour
+
+
+### Day 95: November 3, 2020
+**Today's Progress**: Looked into the apply(), call() & bind() methods, as well as Polymorphism & Memoization. Also had a quick look into fixing my NASA Image API
+
+**Thoughts**: Decided to have a quick lookup of the methods, to understand what they were and how they worked. Turns out I already understood polymorphism, but didn't know that it essential defines inheritance in OOP.
+
+**Time**: 3 hours
+
+
 ### Day 94: November 2, 2020
 **Today's Progress**: Worked on a old project, colour-flipper.
 
