@@ -25,6 +25,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 98: November 6, 2020
+**Today's Progress**: Worked on Redux.
+
+**Thoughts**: Currently working through a few lessons, that are more like mini challenges.
+
+**Time**: 1 hour~
+
+
 ### Day 97: November 5, 2020
 **Today's Progress**: Studied OOP
 
@@ -34,9 +42,11 @@ Project Ideas:
 
 
 ### Day 96: November 4, 2020
-**Today's Progress**: Worked on Redux again.
+**Today's Progress**: Had a look into Object Oriented Programming.
 
-**Time**: 1 hour
+**Thoughts**: Just wanted to freshen up on some topics that I studied well over a month ago. Don't want to forget anything as I continue studying React and Redux.
+
+**Time**: 1.5 hours~
 
 
 ### Day 95: November 3, 2020
