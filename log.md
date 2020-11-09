@@ -7,7 +7,7 @@ I am using this challenge in an effort to train positive studying habits and to 
 * I will try apply my new knowledge by creating some small projects.
 * I aim to have a minimum of 3 small projects completed by the end of the challenge.
 * I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website (Dependent on how my personal projects go).
-* Total Days: 118
+* Total Days: 120
 
 <!-- 
 Project Ideas:
@@ -24,6 +24,13 @@ Project Ideas:
 
 **Time**:
 -->
+
+### Day 101: November 9, 2020
+**Today's Progress**: Finished Redux & began FCC's React + Redux challenge.
+
+**Thoughts**: Had a busy weekend, but was keen to get back into it. Began with finishing off Redux, and starting the React + Redux challenge. But also started prepping for interviews.
+
+**Time**: 2 hours~
 
 ### Day 98: November 6, 2020
 **Today's Progress**: Worked on Redux.
