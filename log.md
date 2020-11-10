@@ -25,6 +25,12 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 102: November 10, 2020
+**Today's Progress**: Worked more on the React challenges
+
+**Time**: 1.5 hours~
+
+
 ### Day 101: November 9, 2020
 **Today's Progress**: Finished Redux & began FCC's React + Redux challenge.
 
