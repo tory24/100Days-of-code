@@ -7,7 +7,7 @@ I am using this challenge in an effort to train positive studying habits and to 
 * I will try apply my new knowledge by creating some small projects.
 * I aim to have a minimum of 3 small projects completed by the end of the challenge.
 * I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website (Dependent on how my personal projects go).
-* Total Days: 120
+* Total Days: 122
 
 <!-- 
 Project Ideas:
@@ -24,6 +24,43 @@ Project Ideas:
 
 **Time**:
 -->
+
+### Day 110: November 18, 2020
+**Today's Progress**: Worked more on React.
+
+**Thoughts**: Getting close to finishing, finding the React/Redux segment hasn't been very clear to me, I think I'll try find some online resources to make things a little clearer.
+
+**Time**: 2 hours
+
+
+### Day 107: November 15, 2020
+**Today's Progress**: Read some more of the memory article.
+
+**Time**: 1 hour
+
+
+### Day 106: November 14, 2020
+**Today's Progress**: Didn't get much spare time today, but read a bit more of the memory article.
+
+**Time**: 1 hour~
+
+
+### Day 105: November 13, 2020
+**Today's Progress**: Worked on React again, and started reading an article on Memory usage.
+
+**Thoughts**:
+
+**Link(s) to Work**: Was reading [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) 
+
+**Time**: 2 hours~
+
+### Day 104: November 12, 2020
+**Today's Progress**: Spent the day preparing for an interview.
+
+**Thoughts**: Prepared for an interview for tomorrow. I haven't interviewed for any jobs in over 5 years, so this is a good opportunity to get some experience and become comfortable doing video call interviews. Also have has almost no internet for the last few days, so haven't been able to get much if any study done.
+
+**Time**: 2-3 hours
+
 
 ### Day 102: November 10, 2020
 **Today's Progress**: Worked more on the React challenges
