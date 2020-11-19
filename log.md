@@ -25,6 +25,14 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 111: November 19, 2020
+**Today's Progress**: Finished React-Redux, working on the final 5 projects of the course.
+
+**Thoughts**: Finally completed React-Redux, was difficult to wrap my head around, so I'm looking to do more study into it through other sites tomorrow. Started the final projects of the Frontend Course, current making a 'Random Quote Machine'.
+
+**Time**: 2 hours
+
+
 ### Day 110: November 18, 2020
 **Today's Progress**: Worked more on React.
 
