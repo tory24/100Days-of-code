@@ -25,6 +25,23 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 113: November 21, 2020
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to Work**:
+
+**Time**:
+
+### Day 112: November 20, 2020
+**Today's Progress**: Worked on the Challenges.
+
+**Thoughts**: Was able to get it working using just JS, HTML & CSS. But decided I should try do it with React. But it's proving a little harder than expected.
+
+**Time**: 2 hours
+
+
 ### Day 111: November 19, 2020
 **Today's Progress**: Finished React-Redux, working on the final 5 projects of the course.
 
