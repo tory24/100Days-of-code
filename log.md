@@ -25,17 +25,43 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 116: November 24, 2020
+**Today's Progress**: Went through more of the memory article, and worked on the FCC challenge, to create a markdown preview tool.
+
+**Thoughts**: I think this preview tool will be my last little project before the end of this challenge.
+
+**Link(s) to Work**: TBA
+
+**Time**: 3 hours
+
+
+### Day 115: November 23, 2020
+**Today's Progress**: Made a basic webpage that implemented an open source map API - Mapbox. Then continued reading the Memory article.
+
+**Thoughts**: Wanted to use Google Maps' Api but found an open source map api instead. Would like to integrate it with some functionality relevant to a webpage.
+
+**Link(s) to Work**: ()[]
+
+**Time**: 2 hours~
+
+
+### Day 114: November 22, 2020
+**Today's Progress**: Read a short article on React.
+
+**Thoughts**: Looking to find some extra information, on how to use it correctly in real-world projects. As I found FCC didn't really explain enough for me.
+
+**Time**: 1 hour
+
+
 ### Day 113: November 21, 2020
-**Today's Progress**:
+**Today's Progress**: Read a bit of the memory article.
 
-**Thoughts**:
+**Thoughts**: It's interesting to learn about how memory is accessed, and used in a way to maximise efficiency by reducing bandwidth. I'm not really sure how useful this will be short term, but I can tell long term this should be useful knowledge to have.
 
-**Link(s) to Work**:
-
-**Time**:
+**Time**: 1 hour
 
 ### Day 112: November 20, 2020
-**Today's Progress**: Worked on the Challenges.
+**Today's Progress**: Worked on the Frontend Challenges.
 
 **Thoughts**: Was able to get it working using just JS, HTML & CSS. But decided I should try do it with React. But it's proving a little harder than expected.
 
