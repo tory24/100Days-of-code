@@ -25,6 +25,12 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 118: November 26, 2020
+**Today's Progress**: Internet's still out, so I'm still going through the memory article.
+
+**Time**: 2 hours
+
+
 ### Day 117: November 25, 2020
 **Today's Progress**: Spent time working through the Memory article again. Internet cut out today.
 
