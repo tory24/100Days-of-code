@@ -25,6 +25,12 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 117: November 25, 2020
+**Today's Progress**: Spent time working through the Memory article again. Internet cut out today.
+
+**Time**: 2 hours
+
+
 ### Day 116: November 24, 2020
 **Today's Progress**: Went through more of the memory article, and worked on the FCC challenge, to create a markdown preview tool.
 
