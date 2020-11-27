@@ -25,6 +25,18 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 119: November 27, 2020
+**Today's Progress**: Memory Article + Worked on the Markdown Previewer Challenge.
+
+**Thoughts**: Embarassingly spent far too long trying to figure out how to simply export and import a React Component, and install React/Redux to a directory. Something that FCC course just didn't teach, and an aspect of this type of work I need to get used to/understand.
+
+Otherwise, I've got the React app to work so that anything entered in the edit box, will be immediately updated in the preview box. But I haven't figured out how to put that text through a markdown parser. Tomorrow's challenge I guess.
+
+**Link(s) to Work**: [Markdown Parser](https://github.com/tory24/markdown-preview) 
+
+**Time**: 4 hours
+
+
 ### Day 118: November 26, 2020
 **Today's Progress**: Internet's still out, so I'm still going through the memory article.
 
