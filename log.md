@@ -7,7 +7,7 @@ I am using this challenge in an effort to train positive studying habits and to 
 * I will try apply my new knowledge by creating some small projects.
 * I aim to have a minimum of 3 small projects completed by the end of the challenge.
 * I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website (Dependent on how my personal projects go).
-* Total Days: 122
+* Total Days: 123
 
 <!-- 
 Project Ideas:
@@ -25,6 +25,16 @@ Project Ideas:
 **Time**:
 -->
 
+### Day 121: November 29, 2020
+**Today's Progress**: Worked on the Markdown Preview Tool
+
+**Thoughts**: I'm almost done, used today to do a few touch ups to the page itself.
+
+**Link(s) to Work**: [Markdown Parser](https://github.com/tory24/markdown-preview)
+
+**Time**: 1 hour
+
+
 ### Day 119: November 27, 2020
 **Today's Progress**: Memory Article + Worked on the Markdown Previewer Challenge.
 
@@ -32,7 +42,7 @@ Project Ideas:
 
 Otherwise, I've got the React app to work so that anything entered in the edit box, will be immediately updated in the preview box. But I haven't figured out how to put that text through a markdown parser. Tomorrow's challenge I guess.
 
-**Link(s) to Work**: [Markdown Parser](https://github.com/tory24/markdown-preview) 
+**Link(s) to Work**: [Markdown Parser](https://github.com/tory24/markdown-preview)
 
 **Time**: 4 hours
 
