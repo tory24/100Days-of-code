@@ -8,6 +8,34 @@ I am using this challenge in an effort to train positive studying habits and to 
 * I aim to have a minimum of 3 small projects completed by the end of the challenge.
 * I also aim to complete some or all of the JavaScript challenge projects I found from the JavaScript30 website (Dependent on how my personal projects go).
 
+### What I Achieved after 101 Days
+**Project's Completed**
+* NASA Random Image API App
+* Markdown Previewer
+* Weather API App
+* Integrated Map API (Started)
+
+**What I learnt**
+* JavaScript Data & Algorithm's Course
+    - Object Oriented Programming
+    - Regular Expressions
+    - Functional Programming
+* Front End Libraries Course (95% complete)
+    - React + Redux
+    - Bootstrap
+    - jQuery
+    - Sass
+
+**Personal Feeling's About the Challenge**
+I began this challenge as a way to keep my study routine consistent, which was a bit difficult this year. But overall, this has been extremely enjoyable, and I learnt a lot in the last 100 days. I wasn't able to do a straight 100 days, but I also think that it's unrealistic to expect to do 100 days straight without feeling a little fatigued.
+In this time, I accomplished all the bullet points above, and they show that I achieved my goal of 3 completed projects, which were a way to apply my new knowledge, and I also completed a couple FCC courses. I didn't complete any JS30 Challenges, however the personal projects I completed are from scratch and my own code, which I far and away better than doing half of the task in the JS30.
+
+**Future Goals**
+I aim to go for my second attempt at this challenge in the new year.
+I also aim to continue to log my thoughts and accomplishments. It's been relaxing mentally to put my thoughts into writing, and has helped to realise that I should 
+I aim to continue to try secure a junior or graduate role somewhere while I continue to study. It's stressful because I'm coming in without a relevant degree, but I hope a company somewhere still considers me because I think I am driven and keen to learn and succeed in this field.
+
+
 
 ### Day 101: November 30, 2020
 **Today's Progress**: Decided to go 1 more day, hoping to finish the Markdown App. Update: Finished Markdown Preview Tool

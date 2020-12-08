@@ -13,6 +13,24 @@ I've become used to keeping track of my progress, and while I'm not going to beg
 **Time**:
 -->
 
+### December 8, 2020
+**Today's Progress**: Updated this repo, and watched a coouple AWS Keynotes and began the next FCC Challenge.
+
+**Thoughts**: Watched a couple AWS Keynotes, from their reinvent event?... Curious to see what it's all about, watched the intro keynote, and one on Machine Learning. Learnt a little, but going to give their 'hands-on labs' a go. 
+I also started the drum pad challenge on FCC. Going to try do it in HTML, CSS, JS. But want to give React a go later, after I have it running properly.
+
+**Link(s) to Work**: https://codepen.io/tory24/pen/OJRXjre
+
+**Time**: 2 hours~
+
+### December 5, 2020
+**Today's Progress**: Restarted the AWS Amplify app.
+
+**Thoughts**: I can't seem to get the backend connected to the front even when I follow the instruction. Not entirely sure what's gone wrong.
+
+**Time**: 1 hour
+
+
 ### December 4, 2020
 **Today's Progress**: Finished looking through the AWS services info, and started going through their online resources, to create a Fullstack React app through AWS Amplify.
 
