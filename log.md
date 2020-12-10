@@ -13,13 +13,29 @@ I've become used to keeping track of my progress, and while I'm not going to beg
 **Time**:
 -->
 
+### December 9, 2020
+**Today's Progress**: Worked on the Drum Machine FCC Challenge.
+
+**Thoughts**: Got it working to play sounds on 'keydown' and 'click' using event listeners. The keydown was very easy to do, but I had trouble with getting the 'click' event listener to play the sound, because it doesn't register an event when the element gets clicked as opposed to the keydown.
+
+I also found out that using the innerHTML of an element grabs everything within the element including any child elements.
+
+E.g: '<button><audio id="A"></audio>A</button>' 
+
+So when I was trying to use the letter within the button to grab the audio tag with associated id, it would grab everything within the button. But I got around this by moving the letter in front of the audio tags, and only grabbing 'element.innerHTML[0]'.
+
+**Link(s) to Work**: [Drum Machine](https://codepen.io/tory24/pen/OJRXjre)
+
+**Time**: 2-3 hours
+
+
 ### December 8, 2020
 **Today's Progress**: Updated this repo, and watched a coouple AWS Keynotes and began the next FCC Challenge.
 
 **Thoughts**: Watched a couple AWS Keynotes, from their reinvent event?... Curious to see what it's all about, watched the intro keynote, and one on Machine Learning. Learnt a little, but going to give their 'hands-on labs' a go. 
 I also started the drum pad challenge on FCC. Going to try do it in HTML, CSS, JS. But want to give React a go later, after I have it running properly.
 
-**Link(s) to Work**: https://codepen.io/tory24/pen/OJRXjre
+**Link(s) to Work**: [Drum Machine](https://codepen.io/tory24/pen/OJRXjre)
 
 **Time**: 2 hours~
 
