@@ -13,6 +13,20 @@ I've become used to keeping track of my progress, and while I'm not going to beg
 **Time**:
 -->
 
+### December 11, 2020
+**Today's Progress**: Worked more on the Drum Machine.
+
+**Thoughts**: Immediately found out about a HTML DOM property called 'textContent'. Straight up fixes my issues from the other day, with grabbing the innerHTML. So I learnt something new today which is good!
+Found a way to overlap audio files using 'cloneNode()'.
+Completed the challenge using vanilla JS, HTML & CSS. Will next try to complete the project using React, Bootstrap and maybe jQuery. Also aim to make it look good as well.
+- I completed it by passing the tests they provide.
+- Then I altered it to how I would do it, it functions exactly the same as before but won't pass the tests they provide.
+
+**Link(s) to Work**: [Drum Machine](https://codepen.io/tory24/pen/OJRXjre)
+
+**Time**: 2 hours
+
+
 ### December 9, 2020
 **Today's Progress**: Worked on the Drum Machine FCC Challenge.
 
