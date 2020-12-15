@@ -13,6 +13,24 @@ I've become used to keeping track of my progress, and while I'm not going to beg
 **Time**:
 -->
 
+### December 15, 2020
+**Today's Progress**: Worked on my resume again.
+
+**Thoughts**: Realised it a bit bland and overloaded with information. Need to spice it up
+
+**Time**: 2 hours
+
+
+### December 14, 2020
+**Today's Progress**: Worked on the Drum Machine some more, got a React version almost working. The click button doesn't work just yet.
+
+**Thoughts**: Unsure of why it's not working properly, will need to utilise more react features 
+
+**Link(s) to Work**: [Drum Machine React](https://codepen.io/tory24/pen/dypNqGo)
+
+**Time**: 2 hours
+
+
 ### December 11, 2020
 **Today's Progress**: Worked more on the Drum Machine.
 
