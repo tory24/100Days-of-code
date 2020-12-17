@@ -13,6 +13,16 @@ I've become used to keeping track of my progress, and while I'm not going to beg
 **Time**:
 -->
 
+### December 17, 2020
+**Today's Progress**: Worked through an AWS S3 Introduction lab. I also completed the Drum Machine React version.
+
+**Thoughts**: It's cool to begin to learn how AWS handles data storage, and their interface to use it is fairly straightforward. The React version now works, and passes the tests. But can do with some major improvement, I would like to learn how to add a volume control to it, and make it look a bit more exciting overall.
+
+**Link(s) to Work**: [Drum Machine React](https://codepen.io/tory24/pen/dypNqGo)
+
+**Time**: 3 hours
+
+
 ### December 15, 2020
 **Today's Progress**: Worked on my resume again.
 
