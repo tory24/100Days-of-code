@@ -13,6 +13,14 @@ I've become used to keeping track of my progress, and while I'm not going to beg
 **Time**:
 -->
 
+### December 18, 2020
+**Today's Progress**: Went through a tutorial for Tensorflow.js
+
+**Thoughts**: Was interested in giving MI a go, and was told Tensorflow is pretty easy. Went through a bit of the tutorial for JS, so far kind of clueless about what's going on, but haven't been able to give it much time. But I'm excited about hopefully understanding this technology eventually.
+
+**Time**: 1 hour
+
+
 ### December 17, 2020
 **Today's Progress**: Worked through an AWS S3 Introduction lab. I also completed the Drum Machine React version.
 
