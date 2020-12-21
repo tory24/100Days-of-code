@@ -13,6 +13,26 @@ I've become used to keeping track of my progress, and while I'm not going to beg
 **Time**:
 -->
 
+### December 21, 2020
+**Today's Progress**: Worked on the Advent of code challenge again.
+
+**Thoughts**: It's a lot of fun, main aim is to just get the answer, so I'm not worried so much on how clean the code is, but it is a little painful XD.
+
+**Link(s) to Work**: TBC
+
+**Time**: 3 Hours~
+
+
+### December 20, 2020
+**Today's Progress**: Tried the Advent of code challenge.
+
+**Thoughts**: It is pretty interesting, could be a good challenge over Christmas so I don't stop practicing completely.
+
+**Link(s) to Work**: TBC
+
+**Time**: 1 hour~
+
+
 ### December 18, 2020
 **Today's Progress**: Went through a tutorial for Tensorflow.js
 
