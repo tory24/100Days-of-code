@@ -13,6 +13,16 @@ I've become used to keeping track of my progress, and while I'm not going to beg
 **Time**:
 -->
 
+### December 22, 2020
+**Today's Progress**: Worked more on Advent of Code Challenge.
+
+**Thoughts**: Got through Day 4 and 5, just starting Day 6.
+
+**Link(s) to Work**: TBC
+
+**Time**: 3 Hours
+
+
 ### December 21, 2020
 **Today's Progress**: Worked on the Advent of code challenge again.
 
