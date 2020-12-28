@@ -13,6 +13,26 @@ I've become used to keeping track of my progress, and while I'm not going to beg
 **Time**:
 -->
 
+### December 28, 2020
+**Today's Progress**: Finished Day 6
+
+**Thoughts**: Thought I'd quickly try finish Day 6 Part 2 of Advent of Code. Was a bit trickier than I expected, but I've been a bit lazy recently with Christmas.
+
+**Link(s) to Work**: TBC
+
+**Time**: 1 hour
+
+
+### December 23, 2020
+**Today's Progress**: More Advent of Code.
+
+**Thoughts**: Really enjoying this, fun to do some more algorithm based challenges.
+
+**Link(s) to Work**: TBC
+
+**Time**: 1 hour
+
+
 ### December 22, 2020
 **Today's Progress**: Worked more on Advent of Code Challenge.
 
