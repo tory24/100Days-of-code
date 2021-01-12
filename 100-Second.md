@@ -32,7 +32,7 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
-### Day 1: January 12, 2021
+### Day 1: January 13, 2021
 **Today's Progress**: Began a new 100 Day challenge,
 
 **Thoughts**: 
