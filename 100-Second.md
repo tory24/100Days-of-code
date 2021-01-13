@@ -33,10 +33,10 @@ I am using this challenge to train positive studying habits and to help make my 
 -->
 
 ### Day 1: January 13, 2021
-**Today's Progress**: Began a new 100 Day challenge,
+**Today's Progress**: Began a new 100 Day challenge today, began by finishing off a Tensorflow.js tutorial I had started last year.
 
-**Thoughts**: 
+**Thoughts**: Pretty interesting to get a small insight into Machine Learning, I plan on diving into the topic a bit more in the future. Today was just a short day, but I aim to finish off the Front end Development FCC Course to start this 100 Days, then figure out where to go next after that.
 
 **Link(s) to Work**: 
 
-**Time**: 
+**Time**: 1 hour
