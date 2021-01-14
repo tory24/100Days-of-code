@@ -32,6 +32,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 2 January 14, 2021
+**Today's Progress**: Worked on the second last FCC Frontend Challenge; JavaScript Calculator.
+
+**Thoughts**: Feeling a bit rusty, but keen to figure this out over the next few days. Was going to do vanilla JS, but interestingly I realised it would be far easier to use React. I have yet to feel like React was an easier way of coding, as opposed to vanilla JS, but yeh I'm starting to see how on larger projects with many interacting elements how React is an easier language to work in than Vanilla JS. Also, considering this course is a Front End Libraries Course, it feels appropriate to use a front end library.
+
+**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL?editors=0110)
+
+**Time**:
+
+
 ### Day 1: January 13, 2021
 **Today's Progress**: Began a new 100 Day challenge today, began by finishing off a Tensorflow.js tutorial I had started last year.
 
