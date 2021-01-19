@@ -21,7 +21,6 @@ I am using this challenge to train positive studying habits and to help make my 
 **Personal Feeling's About the Challenge**
 
 
-
 ### Day 1 January 1, 2021
 **Today's Progress**:
 
@@ -32,6 +31,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 3 January 18, 2021
+**Today's Progress**: Work on the JavaScript Calculator.
+
+**Thoughts**: I've got it functioning about 50% of how it should, I'm trying to figure out the best way to have the calculator actually perform the equation now. Which is turning out to be a bit more difficult than expected.
+
+**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL?editors=0110)
+
+**Time**: 2 hours~
+
+
 ### Day 2 January 14, 2021
 **Today's Progress**: Worked on the second last FCC Frontend Challenge; JavaScript Calculator.
 
@@ -39,7 +48,7 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL?editors=0110)
 
-**Time**:
+**Time**: 1 hour~
 
 
 ### Day 1: January 13, 2021
