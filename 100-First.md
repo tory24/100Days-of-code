@@ -10,10 +10,10 @@ I am using this challenge in an effort to train positive studying habits and to 
 
 ### What I Achieved after 101 Days
 **Project's Completed**
-* NASA Random Image API App
-* Markdown Previewer
-* Weather API App
-* Integrated Map API (Started)
+* [NASA Random Image API App](https://github.com/tory24/deepSpaceCuriosity)
+* [Markdown Previewer](https://codepen.io/tory24/pen/ExyqGpg)
+* [Weather API App](https://github.com/tory24/weatherapi)
+* [Integrated Map API](https://github.com/tory24/integratedmap-api) (Started)
 
 **What I learnt**
 * JavaScript Data & Algorithm's Course

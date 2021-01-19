@@ -31,6 +31,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 4 January 19, 2021
+**Today's Progress**: Work on the JavaScript Calculator.
+
+**Thoughts**: Spent my entire day trying to figure out how to get the decimal place to work for the calculator. My aim is to make it work, and then look to fix everything up. But I have a feeling my approach to making the calculator is actually making it more complex than it needs to be, more specifically; I think my use of state in this React app isn't an ideal way of storing the information.
+
+**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL?editors=0110)
+
+**Time**:
+
+
 ### Day 3 January 18, 2021
 **Today's Progress**: Work on the JavaScript Calculator.
 
