@@ -31,6 +31,17 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+
+### Day 5 January 20, 2021
+**Today's Progress**: Updated my resume, applied for a Canva Internship role & worked on the Calculator
+
+**Thoughts**:
+
+**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL?editors=0110)
+
+**Time**:
+
+
 ### Day 4 January 19, 2021
 **Today's Progress**: Work on the JavaScript Calculator.
 
