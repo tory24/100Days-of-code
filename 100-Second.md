@@ -31,13 +31,25 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 6 January 21, 2021
+**Today's Progress**: Applied for a few jobs, and trying to finish the React Calculator.
+
+**Thoughts**: Finally finished the calculator, I sort of did a re-write. I have two Calculators, one performs as I wanted it to, by replacing operators if they are clicked multiple times in a row. The other calculator passes FCC's Mocha tests, but will instead chain a string of operators as they are pressed, and when the equal's sign is clicked it'll apply logic to determine which operator to use. They're not exactly pretty, but they got the job done :).
+The main issue now is how it handles decimal point operations, I would have to add a new function to multiply everything by like a thousand then divide again at the end to avoid miscalculations at very small decimals. But this is an issue with JS and how it performs math.
+
+**Link(s) to Work**:
+* [FCC JS My preferred Calculator](https://codepen.io/tory24/pen/BaLqYQL)
+* [FCC JS Calculator for FCC Tests](https://codepen.io/tory24/pen/KKgYzoK)
+
+**Time**: 4 hours~
+
 
 ### Day 5 January 20, 2021
 **Today's Progress**: Updated my resume, applied for a Canva Internship role & worked on the Calculator
 
 **Thoughts**: Finishing this calculator is getting real tough, I'm thinking I may need to restart and start fresh to have the tests tick off as completed.
 
-**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL?editors=0110)
+**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL)
 
 **Time**: 4 hours~
 
@@ -47,7 +59,7 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Thoughts**: Spent my entire day trying to figure out how to get the decimal place to work for the calculator. My aim is to make it work, and then look to fix everything up. But I have a feeling my approach to making the calculator is actually making it more complex than it needs to be, more specifically; I think my use of state in this React app isn't an ideal way of storing the information.
 
-**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL?editors=0110)
+**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL)
 
 **Time**:
 
@@ -57,7 +69,7 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Thoughts**: I've got it functioning about 50% of how it should, I'm trying to figure out the best way to have the calculator actually perform the equation now. Which is turning out to be a bit more difficult than expected.
 
-**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL?editors=0110)
+**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL)
 
 **Time**: 2 hours~
 
@@ -67,7 +79,7 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Thoughts**: Feeling a bit rusty, but keen to figure this out over the next few days. Was going to do vanilla JS, but interestingly I realised it would be far easier to use React. I have yet to feel like React was an easier way of coding, as opposed to vanilla JS, but yeh I'm starting to see how on larger projects with many interacting elements how React is an easier language to work in than Vanilla JS. Also, considering this course is a Front End Libraries Course, it feels appropriate to use a front end library.
 
-**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL?editors=0110)
+**Link(s) to Work**: [FCC JS Calculator](https://codepen.io/tory24/pen/BaLqYQL)
 
 **Time**: 1 hour~
 
