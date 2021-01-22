@@ -31,6 +31,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 7 January 22, 2021
+**Today's Progress**: Began work on the final FCC Front End Challenge.
+
+**Thoughts**: Began work on the 25 + 5 Clock challenge, essentially an interval timer. Initially it seems like an easy task. But after starting it I'm beginning to realise it might be deceptively difficult.
+
+**Link(s) to Work**: [25 + 5 Clock](https://codepen.io/tory24/pen/WNGWVbj)
+
+**Time**: 1 hour
+
+
 ### Day 6 January 21, 2021
 **Today's Progress**: Applied for a few jobs, and trying to finish the React Calculator.
 
