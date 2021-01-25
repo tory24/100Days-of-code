@@ -31,6 +31,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 8 January 25, 2021
+**Today's Progress**: Continued developing my 25 + 5 Clock.
+
+**Thoughts**: Spent time getting a basic design of the interval timer, and began thinking about how best to use React to make this timer work.
+
+**Link(s) to Work**: [25 + 5 Clock](https://codepen.io/tory24/pen/WNGWVbj)
+
+**Time**: 2 hours  display: inline-block;
+
+
 ### Day 7 January 22, 2021
 **Today's Progress**: Began work on the final FCC Front End Challenge.
 
