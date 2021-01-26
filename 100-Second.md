@@ -31,7 +31,7 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
-### Day 1 January 1, 2021
+### Day 9 January 26, 2021
 **Today's Progress**: Worked a tiny bit on the timer.
 
 **Thoughts**: Was a bloody hot day today, but managed to squeeze in a little bit of work on the timer before bed. Need to figure out how to actually make the timer countdown.
