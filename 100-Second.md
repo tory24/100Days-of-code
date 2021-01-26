@@ -31,6 +31,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 1 January 1, 2021
+**Today's Progress**: Worked a tiny bit on the timer.
+
+**Thoughts**: Was a bloody hot day today, but managed to squeeze in a little bit of work on the timer before bed. Need to figure out how to actually make the timer countdown.
+
+**Link(s) to Work**: [25 + 5 Clock](https://codepen.io/tory24/pen/WNGWVbj)
+
+**Time**: 30min
+
+
 ### Day 8 January 25, 2021
 **Today's Progress**: Continued developing my 25 + 5 Clock.
 
