@@ -31,6 +31,18 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 10 January 27, 2021
+**Today's Progress**: Worked on Timer.
+
+**Thoughts**: Yeh this is tough, I've found code that has helped me to get the timer working. But I'm trying to understand how to stop it, update content on screen as other items update, like updating the timer and the session length is changed. Then after I have that figured out, I'll need to get it to change to the break time. However I've learnt today how to simplify some of my older code by using a variable to change the state in a function.
+    i.e this.setState({ [e.target.name] : e.target.value })
+So hopefully this helps me a bit tomorrow/in future.
+
+**Link(s) to Work**: [25 + 5 Clock](https://codepen.io/tory24/pen/WNGWVbj)
+
+**Time**: 2 hours
+
+
 ### Day 9 January 26, 2021
 **Today's Progress**: Worked a tiny bit on the timer.
 
