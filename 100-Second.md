@@ -31,6 +31,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 11 January 29, 2021
+**Today's Progress**: Worked on FCC Timer.
+
+**Thoughts**: Struggling to have the timer update when the session length is increased. If I try updating through a function, it updates a few clicks later, so when session is 27, timer is only at 26:00. I think I need to have it update within state, but not quite sure how to get that working.
+
+**Link(s) to Work**: [25 + 5 Clock](https://codepen.io/tory24/pen/WNGWVbj)
+
+**Time**: 1.5 hours
+
+
 ### Day 10 January 27, 2021
 **Today's Progress**: Worked on Timer.
 
