@@ -31,6 +31,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 12 February 1, 2021
+**Today's Progress**: Working on getting the timer to work as expected.
+
+**Thoughts**: Running into to some trouble, trying to figure out how to update state and immediately call on the updated state in a single call. But the setState callback doesn't seem to work as expected for me. So close to finishing this.
+
+**Link(s) to Work**: [25 + 5 Clock](https://codepen.io/tory24/pen/WNGWVbj)
+
+**Time**: 4 hours~
+
+
 ### Day 11 January 29, 2021
 **Today's Progress**: Worked on FCC Timer.
 
