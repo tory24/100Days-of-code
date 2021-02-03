@@ -21,7 +21,7 @@ I am using this challenge to train positive studying habits and to help make my 
 **Personal Feeling's About the Challenge**
 
 
-### Day 1 January 1, 2021
+### Day 1 February 1, 2021
 **Today's Progress**:
 
 **Thoughts**:
@@ -30,6 +30,25 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Time**:
 -->
+
+### Day 14 February 3, 2021
+**Today's Progress**: Began the Responsive Web Design Certification in FreeCodeCamp. And enquired about General Assembly's short bootcamps.
+
+**Thoughts**: Haven't recieved the certification for the frontend libraries course which is a little annoying. But began the Responsive Web Design course, just to see if there's anything more that might help me with the HTML, CSS basics.
+Finding it difficult to appear as a suitable candidate for jobs, so thinking of doing a bootcamp to help get my foot in the door somewhere. 
+
+**Time**: 3 hours
+
+
+### Day 13 February 2, 2021
+**Today's Progress**: Finsihed with the FCC Timer
+
+**Thoughts**: I finally got the timer working as expected, it now counts down from the session length, then at zero it will reset to the break length, after this it will reset to the session length and repeat the process until the reset button is pressed or the start/stop button is pressed again. Really happy that I finally got it working, a major change is that I realised it's much easier to use multiple funcitons within the component so that it can access state, rather than placing some generic functions outside the component, which I did for a couple challenges from before.
+
+**Link(s) to Work**: [25 + 5 Clock](https://codepen.io/tory24/pen/WNGWVbj)
+
+**Time**: 3 hours
+
 
 ### Day 12 February 1, 2021
 **Today's Progress**: Working on getting the timer to work as expected.
