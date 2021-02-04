@@ -31,6 +31,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 15 February 4, 2021
+**Today's Progress**: Cleaned up a few FCC Challenges, and began a digital resume.
+
+**Thoughts**: I've applied for a few job but realised I dont have enough skills so I appear as not well rounded. So I'm planning on learning a bit of back end so I can host some projects online and add them to my digital resume which will help me show not tell. Also it will be a good way to broaden my knowledge and abilities.
+
+**Link(s) to Work**: [My Codepen Profile](https://codepen.io/tory24)
+
+**Time**: 3 hours~
+
+
 ### Day 14 February 3, 2021
 **Today's Progress**: Began the Responsive Web Design Certification in FreeCodeCamp. And enquired about General Assembly's short bootcamps.
 
