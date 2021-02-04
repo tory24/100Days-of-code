@@ -31,6 +31,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 16 February 5, 2021
+**Today's Progress**: Did 45 minutes of the Responsive Web Design Certification on FCC. Then began work on my digital resume.
+
+**Thoughts**: Just going back through HTML, CSS basics to cover anything I might've missed or forgotten about.
+
+**Link(s) to Work**:
+
+**Time**:
+
+
 ### Day 15 February 4, 2021
 **Today's Progress**: Cleaned up a few FCC Challenges, and began a digital resume.
 
