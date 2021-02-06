@@ -36,6 +36,14 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 17 February 6, 2021
+**Today's Progress**: Making up for missed days, spent some time working on the resume.
+
+**Thoughts**: Enjoying this, is a good way to learn new things and do something that might help me secure a job.
+
+**Time**: 1 hour
+
+
 ### Day 16 February 5, 2021
 **Today's Progress**: Did an hour of the Responsive Web Design Certification on FCC. Then began work on my digital resume.
 
