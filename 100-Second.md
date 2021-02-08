@@ -36,6 +36,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 18 February 8, 2021
+**Today's Progress**: Began learning how to use Wordpress, did some FCC Challenges.
+
+**Thoughts**: Decided that I need to learn how to use wordpress and host a site through AWS, considering Wordpress is used for most sites, and AWS powers most of the internet, learning how to do this would hopefully be beneficial for job prospects.
+
+**Link(s) to Work**: TBC
+
+**Time**: 2 hours
+
+
 ### Day 17 February 6, 2021
 **Today's Progress**: Making up for missed days, spent some time working on the resume.
 
