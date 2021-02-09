@@ -39,11 +39,11 @@ I am using this challenge to train positive studying habits and to help make my 
 ### Day 19 February 9, 2021
 **Today's Progress**: Set up Wordpress through AWS Lightsail, did some FCC Challenges, and worked on learning some more advanced CSS.
 
-**Thoughts**: Finally took the time to learn how to set up a Wordpress site, decided to go through Lightsail, is simple and easy. But I havent fully learnt how to customise a site properly through Wordpress, I'm finding the tool to be a bit clunky, but keen to give it another go tomorrow, to see what I can make.
+**Thoughts**: Finally took the time to learn how to set up a Wordpress site, decided to go through Lightsail, is simple and easy. But I havent fully learnt how to customise a site properly through Wordpress, I'm finding the tool to be a bit clunky, but keen to give it another go tomorrow, to see what I can make. Did a few FCC Challenges and fixed up my timer a bit, added some colour.
 
-**Link(s) to Work**:
+**Link(s) to Work**: TBC
 
-**Time**:
+**Time**: 4 hours
 
 
 ### Day 18 February 8, 2021
