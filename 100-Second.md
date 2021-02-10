@@ -36,6 +36,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 20 February 10, 2021
+**Today's Progress**: Worked through a tutorial to make a page similar to the Apple Airpods page. 
+
+**Thoughts**: Followed a tutorial to recreate how Apple displayed the airpods on their webpage. Learnt how to map a user's scroll to loading a new image on page, and also learnt about preloading, and how it can dramatically speed up the user experience. However it also dramatically increases download sizes, especially when loading 147 high quality images. As a result of this, I learnt about the CDN and how it helps across most of the internet to reduce load times etc. I only have a basic understanding but I realise how important it is for many companies.
+
+**Link(s) to Work**:
+
+**Time**: 4 hours
+
+
 ### Day 19 February 9, 2021
 **Today's Progress**: Set up Wordpress through AWS Lightsail, did some FCC Challenges, and worked on learning some more advanced CSS.
 
