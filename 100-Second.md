@@ -37,11 +37,13 @@ I am using this challenge to train positive studying habits and to help make my 
 -->
 
 ### Day 20 February 10, 2021
-**Today's Progress**: Worked through a tutorial to make a page similar to the Apple Airpods page. 
+**Today's Progress**: Worked through a tutorial to make a page similar to the Apple Airpods page. Worked on using CSS and HTML project.
 
 **Thoughts**: Followed a tutorial to recreate how Apple displayed the airpods on their webpage. Learnt how to map a user's scroll to loading a new image on page, and also learnt about preloading, and how it can dramatically speed up the user experience. However it also dramatically increases download sizes, especially when loading 147 high quality images. As a result of this, I learnt about the CDN and how it helps across most of the internet to reduce load times etc. I only have a basic understanding but I realise how important it is for many companies.
 
-**Link(s) to Work**:
+Decided to try use pure CSS and HTML to make Boba Fett's helment in a minimalist art style. I think it's mostly doable, and it should hopefully teach me some new little tricks and aspects of CSS that I don't yet know. Managed to get the base green helmet done, need to get the red visor and a few extra bits in.
+
+**Link(s) to Work**: TBA
 
 **Time**: 4 hours
 
