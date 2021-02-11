@@ -36,6 +36,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 21 February 11, 2021
+**Today's Progress**: Working on the Mandalorian Helmet project.
+
+**Thoughts**: Got a bit carried away today and finished my Boba Fett Helmet by writing it purely in CSS. Was actually a lot of fun and kind of relaxing, but stressful at the same time.
+
+**Link(s) to Work**: TBC
+
+**Time**: 5 hours
+
+
 ### Day 20 February 10, 2021
 **Today's Progress**: Worked through a tutorial to make a page similar to the Apple Airpods page. Worked on using CSS and HTML project.
 
