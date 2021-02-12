@@ -36,12 +36,22 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 22 February 12, 2021
+**Today's Progress**: Ended up beginning a new Mandalorian helmet, but with a bit more detail.
+
+**Thoughts**: Enjoying this CSS challenge, its a fun way of looking at how to design something with quite restrictive constraints. Might start looking at webkits soon and see how they work.
+
+**Link(s) to Work**: [Mandalorian Github](https://github.com/tory24/mandalorian-minimalist)
+
+**Time**: 4 hours
+
+
 ### Day 21 February 11, 2021
 **Today's Progress**: Working on the Mandalorian Helmet project.
 
 **Thoughts**: Got a bit carried away today and finished my Boba Fett Helmet by writing it purely in CSS. Was actually a lot of fun and kind of relaxing, but stressful at the same time.
 
-**Link(s) to Work**: TBC
+**Link(s) to Work**: [Boba Fett Codepen](https://codepen.io/tory24/full/JjbbXNq)
 
 **Time**: 5 hours
 
