@@ -36,6 +36,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 23 February 15, 2021
+**Today's Progress**: Finished the Mandalorian Helmet, then began work on my digital resume again.
+
+**Thoughts**: Found it hard to stop working on the little CSS project I'm doing. But it's not super useful when compared to trying to make a digital portfolio. So worked a bit on improving that. I guess some of the CSS may come in handy later down the track.
+
+**Link(s) to Work**: [Mandalorian Github](https://github.com/tory24/mandalorian-minimalist)
+
+**Time**: 4 hours
+
+
 ### Day 22 February 12, 2021
 **Today's Progress**: Ended up beginning a new Mandalorian helmet, but with a bit more detail.
 
