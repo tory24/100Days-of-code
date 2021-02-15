@@ -14,6 +14,7 @@ I am using this challenge to train positive studying habits and to help make my 
 * [25 + 5 Clock](https://codepen.io/tory24/pen/WNGWVbj)
 * [FCC JS My preferred Calculator](https://codepen.io/tory24/pen/BaLqYQL)
 * [FCC JS Calculator for FCC Tests](https://codepen.io/tory24/pen/KKgYzoK)
+* [Mandalorian Github](https://github.com/tory24/mandalorian-minimalist)
 
 <!--
 ### What I Achieved after 100 Days
@@ -39,11 +40,11 @@ I am using this challenge to train positive studying habits and to help make my 
 ### Day 23 February 15, 2021
 **Today's Progress**: Finished the Mandalorian Helmet, then began work on my digital resume again.
 
-**Thoughts**: Found it hard to stop working on the little CSS project I'm doing. But it's not super useful when compared to trying to make a digital portfolio. So worked a bit on improving that. I guess some of the CSS may come in handy later down the track.
+**Thoughts**: Found it hard to stop working on the little CSS project I'm doing. But it's not super useful when compared to trying to make a digital portfolio. So worked a bit on improving that. I guess some of the CSS may come in handy later down the track. I thought of an idea for a portfolio that may double as both a way to promote myself & demonstrate various skills, like knowledge of CRUD, and how to utilise a RESTful API.
 
 **Link(s) to Work**: [Mandalorian Github](https://github.com/tory24/mandalorian-minimalist)
 
-**Time**: 4 hours
+**Time**: 3 hours
 
 
 ### Day 22 February 12, 2021
