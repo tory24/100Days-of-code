@@ -37,6 +37,24 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 25 February 19, 2021
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to Work**:
+
+**Time**:
+
+
+### Day 24 February 18, 2021
+**Today's Progress**: Worked on FCC Challenges & my portfolio.
+
+**Thoughts**: Needed to get back into a rhythm, the FCC Challenges really help to quickly get back into a learning routine. Also decided to skip ahead and finish the first FCC challenge, to see if I knew enough. Was easy enough, was tasked with building a basic tribute page which I centred around Kobe Bryant, I based it on the example tribute page they provide, but changed it up a litte. But I learnt about a few HTML tags I hadn't encountered before, <cite>, <blockquote> & <figcaption>. The last of which I learnt about but had never used.
+
+**Time**: 2 hours
+
+
 ### Day 23 February 15, 2021
 **Today's Progress**: Finished the Mandalorian Helmet, then began work on my digital resume again.
 
