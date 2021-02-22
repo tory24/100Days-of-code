@@ -37,14 +37,20 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 26 February 22, 2021
+**Today's Progress**: Worked through FCC Responsive Web Design Certificate.
+
+**Thoughts**: Getting back into it, last week was a bit all over the place. Working through the Responsive Web Design Certificate on FCC. It's been very easy, but nice to learn a bit more about the accessibility features of HTML, and animation in CSS, something I'm keen to explore a bit more.
+
+**Time**: 3 hours
+
+
 ### Day 25 February 19, 2021
-**Today's Progress**:
+**Today's Progress**: Worked on FCC Responsive Web Design challenges.
 
-**Thoughts**:
+**Thoughts**: Only made it through a few challenges, and applied for a job, which took longer than expected.
 
-**Link(s) to Work**:
-
-**Time**:
+**Time**: 1 hour
 
 
 ### Day 24 February 18, 2021
