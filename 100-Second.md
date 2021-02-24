@@ -39,6 +39,26 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 1 February 1, 2021
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to Work**:
+
+**Time**:
+
+
+### Day 28 February 24, 2021
+**Today's Progress**: Worked through the 3rd challenge in the FCC Responsive Web Design Cert.
+
+**Thoughts**: This one's a little harder, just trying to understand how to align items properly along a navbar is a bit confusing.
+
+**Link(s) to Work**: [FCC Landing Page](https://codepen.io/tory24/full/abBVRKv)
+
+**Time**: 2 hours
+
+
 ### Day 27 February 23, 2021
 **Today's Progress**: Worked through FCC Responsive Web Design Certificate.
 
