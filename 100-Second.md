@@ -37,6 +37,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 1 February 1, 2021
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to Work**:
+
+**Time**:
+
+
 ### Day 26 February 22, 2021
 **Today's Progress**: Worked through FCC Responsive Web Design Certificate.
 
