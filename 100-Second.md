@@ -15,6 +15,8 @@ I am using this challenge to train positive studying habits and to help make my 
 * [FCC JS My preferred Calculator](https://codepen.io/tory24/pen/BaLqYQL)
 * [FCC JS Calculator for FCC Tests](https://codepen.io/tory24/pen/KKgYzoK)
 * [Mandalorian Github](https://github.com/tory24/mandalorian-minimalist)
+* [FCC Tribute Page](https://codepen.io/tory24/full/yLVXLbp)
+* [FCC Survey Form](https://codepen.io/tory24/pen/xxRXqVM)
 
 <!--
 ### What I Achieved after 100 Days
@@ -37,14 +39,12 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
-### Day 1 February 1, 2021
-**Today's Progress**:
+### Day 27 February 23, 2021
+**Today's Progress**: Worked through FCC Responsive Web Design Certificate.
 
-**Thoughts**:
+**Thoughts**: Working through the flexbox section, I realised how poorly codecademy teaches flexbox, my notes were very brief and confusing. So FCC explained things a bit more clearly, but did not cover as many features of flexbox.
 
-**Link(s) to Work**:
-
-**Time**:
+**Time**: 4 hours
 
 
 ### Day 26 February 22, 2021
