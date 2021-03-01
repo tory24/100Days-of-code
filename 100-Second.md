@@ -29,7 +29,7 @@ I am using this challenge to train positive studying habits and to help make my 
 **Personal Feeling's About the Challenge**
 
 
-### Day 1 February 1, 2021
+### Day 1 March 1, 2021
 **Today's Progress**:
 
 **Thoughts**:
@@ -39,14 +39,22 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
-### Day 1 February 1, 2021
-**Today's Progress**:
+### Day 30 March 1, 2021
+**Today's Progress**: Worked on the 3rd FCC Responsive Web Design challenge, and spent time looking for jobs.
 
-**Thoughts**:
+**Thoughts**: Enjoying trying to build a webpage, its challenging and fun to watch it slowly come to life. Also been looking at and applying for some junior roles, no bites yet, but hoping I get that one company that is willing to take a chance and hire me.
 
-**Link(s) to Work**:
+**Link(s) to Work**: [FCC Landing Page](https://codepen.io/tory24/full/abBVRKv)
 
-**Time**:
+**Time**: 3 hours
+
+
+### Day 29 February 25, 2021
+**Today's Progress**: Applied for some jobs, and began working on my digital portfolio again.
+
+**Thoughts**: Testing how to build this site is pretty enjoyable, just stressful thinking about how best to build it, since it demonstrates my work, and shows who I am as a developer.
+
+**Time**: 
 
 
 ### Day 28 February 24, 2021
