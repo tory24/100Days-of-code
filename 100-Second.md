@@ -39,6 +39,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 31 March 2, 2021
+**Today's Progress**: Applied for an Atlassian Internship, and worked a bit on the FCC Chalenge.
+
+**Thoughts**: Probably spent a bit too long fretting over my cover letter, but it's stressful applying for a role that seems perfect for me. I just hope they consider me. Also the product landing page is coming together, I think I'll try finish it off tomorrow, it already meets the challenge criteria, but I want to make it look good, the colours are a bit gross at the moment.
+
+**Link(s) to Work**: [FCC Landing Page](https://codepen.io/tory24/full/abBVRKv)
+
+**Time**:
+
+
 ### Day 30 March 1, 2021
 **Today's Progress**: Worked on the 3rd FCC Responsive Web Design challenge, and spent time looking for jobs.
 
