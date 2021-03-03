@@ -17,6 +17,8 @@ I am using this challenge to train positive studying habits and to help make my 
 * [Mandalorian Github](https://github.com/tory24/mandalorian-minimalist)
 * [FCC Tribute Page](https://codepen.io/tory24/full/yLVXLbp)
 * [FCC Survey Form](https://codepen.io/tory24/pen/xxRXqVM)
+* [FCC Landing Page](https://codepen.io/tory24/full/abBVRKv)
+* [FCC Technical Documentation Page](https://codepen.io/tory24/full/xxRzbPR)
 
 <!--
 ### What I Achieved after 100 Days
@@ -39,6 +41,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 32 March 3, 2021
+**Today's Progress**: Completed FCC's Certificate's 4th Project
+
+**Thoughts**: Decided to work on the next challenge, which is to make a Technical Documentation Page. Was for the most page very easy. Had the most trouble with setting the anchor's for when the page is under 900px, when the media query kicks in, as I wanted the navbar to stay in a fix position. So I tried a bunch of techniques suggested in stackoverflow, and finding a new feature I hadn't heard of before 'scroll-padding-top:' which I set to the height of the navbar. And pretty much fixed the issue I was stuck on for over an hour. 
+
+**Link(s) to Work**: [FCC Technical Documentation Page](https://codepen.io/tory24/full/xxRzbPR)
+
+**Time**: 6 hours~
+
+
 ### Day 31 March 2, 2021
 **Today's Progress**: Applied for an Atlassian Internship, and worked a bit on the FCC Chalenge.
 
@@ -46,7 +58,7 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Link(s) to Work**: [FCC Landing Page](https://codepen.io/tory24/full/abBVRKv)
 
-**Time**:
+**Time**: 2 hours
 
 
 ### Day 30 March 1, 2021
