@@ -41,6 +41,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 33 March 4, 2021
+**Today's Progress**: Worked on a personal project with a friend who's a dev, and started the final project of FCC's Responsive Web Design Certificate.
+
+**Thoughts**: I'm getting faster at setting up a page, but the course only uses HTML & CSS. But it's cool to notice how I've improved/changed my approach to starting projects.
+
+**Link(s) to Work**: [FCC Portfolio Page](https://codepen.io/tory24/full/PobaxLj)
+
+**Time**: 4 hours~
+
+
 ### Day 32 March 3, 2021
 **Today's Progress**: Completed FCC's Certificate's 4th Project
 
