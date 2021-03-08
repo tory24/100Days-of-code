@@ -41,6 +41,14 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 34 March 8 2021
+**Today's Progress**: Spent time helping a friend with an algorithm, and worked some more on the FCC Portfolio Page challenge.
+
+**Link(s) to Work**: [FCC Portfolio Page](https://codepen.io/tory24/full/PobaxLj)
+
+**Time**: 2 hours
+
+
 ### Day 33 March 4, 2021
 **Today's Progress**: Worked on a personal project with a friend who's a dev, and started the final project of FCC's Responsive Web Design Certificate.
 
