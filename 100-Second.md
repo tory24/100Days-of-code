@@ -19,6 +19,7 @@ I am using this challenge to train positive studying habits and to help make my 
 * [FCC Survey Form](https://codepen.io/tory24/pen/xxRXqVM)
 * [FCC Landing Page](https://codepen.io/tory24/full/abBVRKv)
 * [FCC Technical Documentation Page](https://codepen.io/tory24/full/xxRzbPR)
+* [FCC Portfolio Page](https://codepen.io/tory24/full/PobaxLj)
 
 <!--
 ### What I Achieved after 100 Days
@@ -40,6 +41,36 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Time**:
 -->
+
+### Day 38 March 12, 2021
+**Today's Progress**: Worked on FCC Portfolio Page
+
+**Thoughts**: ... I think I'll use this and build from this as a professional portfolio page, as it's something recruiters seem to want from applicants. Ideally I'll make it far better than this, maybe create a new build but in React first.
+
+**Link(s) to Work**: [FCC Portfolio Page](https://codepen.io/tory24/full/PobaxLj)
+
+**Time**: 4 hours
+
+
+### Day 37 March 11, 2021
+**Today's Progress**: Worked on FCC Portfolio Page
+
+**Thoughts**: Realised I had a bit of a writers block or something with this project, but yesterday I finally kicked into gear and pretty much finished the page. Just need to figure out where to store the images I'll use for my projects.
+
+**Link(s) to Work**: [FCC Portfolio Page](https://codepen.io/tory24/full/PobaxLj)
+
+**Time**: 4 hours
+
+
+### Day 36 March 10, 2021
+**Today's Progress**: Worked on the FCC 
+
+**Thoughts**: Was pretty sick today, so only got about an hour in, and spent most of it fixing a couple issues with the Portfolio Page.
+
+**Link(s) to Work**: [FCC Portfolio Page](https://codepen.io/tory24/full/PobaxLj)
+
+**Time**: 1 hour
+
 
 ### Day 35 March 9, 2021
 **Today's Progress**: Applied for a few roles, and worked some more on the final FCC Challenge.
