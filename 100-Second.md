@@ -45,7 +45,7 @@ I am using this challenge to train positive studying habits and to help make my 
 ### Day 38 March 12, 2021
 **Today's Progress**: Worked on FCC Portfolio Page
 
-**Thoughts**: ... I think I'll use this and build from this as a professional portfolio page, as it's something recruiters seem to want from applicants. Ideally I'll make it far better than this, maybe create a new build but in React first.
+**Thoughts**: Finally got the Portfolio challenge finished, took me a bit to figure out how the projects were going to collapse and grow and stretch. Then spent some time figuring out how to add a transition effect to hover elements like socials & the projects. I think I'll use this and build from this as a professional portfolio page, as it's something recruiters seem to want from applicants. Ideally I'll make it far better than this, maybe create a new build but in React first.
 
 **Link(s) to Work**: [FCC Portfolio Page](https://codepen.io/tory24/full/PobaxLj)
 
