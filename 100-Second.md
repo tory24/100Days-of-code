@@ -42,6 +42,14 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 39 March 15, 2021
+**Today's Progress**: Started working through the Responsive Web Design Certification's CSS Grid Section.
+
+**Thoughts**: Decided to work through the final section, since the RWD Certification hasn't popped up as complete yet. But also I'd forgotten about CSS Grid, so this is probably a good thing anyway.
+
+**Time**: 1 hour
+
+
 ### Day 38 March 12, 2021
 **Today's Progress**: Worked on FCC Portfolio Page
 
