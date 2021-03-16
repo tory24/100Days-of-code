@@ -42,6 +42,17 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 40 March 16, 2021
+**Today's Progress**: Tested, how to put my short term portfolio from FCC online.
+
+**Thoughts**: Transferred my current wordpress test site to a build of my codepen portfolio page. Kind of diving into the deep end trying to figure this all out. But I think there's enough documentation from both GoDaddy and AWS to guide me through linking my custom domain to the Amplfiy App domain. If this does work, then the page itself is nothing crash hot, very simple and to the point, but I hope to turn it into a React app, and maybe add some little flairs to it to help stand out.
+I plan on focusing on this project for the next week and see how far I get.
+
+**Link(s) to Work**: [Portfolio Page](https://torymos.com)
+
+**Time**:
+
+
 ### Day 39 March 15, 2021
 **Today's Progress**: Started working through the Responsive Web Design Certification's CSS Grid Section.
 
