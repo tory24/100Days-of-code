@@ -20,6 +20,7 @@ I am using this challenge to train positive studying habits and to help make my 
 * [FCC Landing Page](https://codepen.io/tory24/full/abBVRKv)
 * [FCC Technical Documentation Page](https://codepen.io/tory24/full/xxRzbPR)
 * [FCC Portfolio Page](https://codepen.io/tory24/full/PobaxLj)
+* [My Live Portfolio Site](torymos.com)
 
 <!--
 ### What I Achieved after 100 Days
@@ -41,6 +42,16 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Time**:
 -->
+
+### Day 41 March 17, 2021
+**Today's Progress**: Added a smooth scroll to my web page for anchor tags & began FCC's APIs & Microservices Cert.
+
+**Thoughts**: Today was a really positive day I think, I'm finally learning new things after quickly running through the Responsive Web Design Certificate. I've decided to start going through FCC's APIs & Microservices Certificate, and so far I'm learning a lot of new things, and it's an area I went over briefly while I was using Codecademy, but I had to stop as I realised at the time I just was not ready to learning more about backend, when I barely knew anything about Frontend. So very positive, and I'm excited about what I'll learn tomorrow!
+
+**Link(s) to Work**: [Github Repo for understanding how package.json works](https://github.com/tory24/boilerplate-npm/blob/gomix/package.json)
+
+**Time**: 4 hours
+
 
 ### Day 40 March 16, 2021
 **Today's Progress**: Tested, how to put my short term portfolio from FCC online.

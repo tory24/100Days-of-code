@@ -1,26 +1,14 @@
 # I've joined the #100DaysOfCode Challenge
+I've decided to take on this challenge after hearing about it through a podcast. I found that while trying to work through FreeCodeCamp's courses, I would let a few days go by at a time without doing any work. So I am using this challenge to train positive studying habits and to help make my self more accountable in my studies. The challenge will also help me in my effort to start some small projects which I can use to apply what I've learnt, and hopefully help to retain the information, through doing rather than just reading.
 
 ## Contents
-
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](100-Second.md)
+* [Log - click here to see my first run through](100-First.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
 
-## If you've decided to join:
-
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/zt-eivg7x1x-wgNPDh7ug_u4GcUwZNT8Zg) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3.  **Code minimum an hour every day for the next 100 days.**
-4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+## Rules
+I don't use twitter, so I won't be tweeting, but I will stick to the one basic rules of the challenge.
+1.  **Code minimum an hour every day for the next 100 days.**
 
 
 ## Want to change other habits?
