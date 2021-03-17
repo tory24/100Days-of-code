@@ -47,6 +47,7 @@ I am using this challenge to train positive studying habits and to help make my 
 **Today's Progress**: Added a smooth scroll to my web page for anchor tags & began FCC's APIs & Microservices Cert.
 
 **Thoughts**: Today was a really positive day I think, I'm finally learning new things after quickly running through the Responsive Web Design Certificate. I've decided to start going through FCC's APIs & Microservices Certificate, and so far I'm learning a lot of new things, and it's an area I went over briefly while I was using Codecademy, but I had to stop as I realised at the time I just was not ready to learning more about backend, when I barely knew anything about Frontend. So very positive, and I'm excited about what I'll learn tomorrow!
+Will get back to my portfolio tomorrow, got a little side-tracked today.
 
 **Link(s) to Work**: [Github Repo for understanding how package.json works](https://github.com/tory24/boilerplate-npm/blob/gomix/package.json)
 
@@ -56,7 +57,7 @@ I am using this challenge to train positive studying habits and to help make my 
 ### Day 40 March 16, 2021
 **Today's Progress**: Tested, how to put my short term portfolio from FCC online.
 
-**Thoughts**: Transferred my current wordpress test site to a build of my codepen portfolio page. Kind of diving into the deep end trying to figure this all out. But I think there's enough documentation from both GoDaddy and AWS to guide me through linking my custom domain to the Amplfiy App domain. If this does work, then the page itself is nothing crash hot, very simple and to the point, but I hope to turn it into a React app, and maybe add some little flairs to it to help stand out.
+**Thoughts**: Transferred my current wordpress test site to a build of my codepen portfolio page. Kind of diving into the deep end trying to figure this all out. But I think there's enough documentation from both GoDaddy and AWS to guide me through linking my custom domain to the Amplfiy App domain. If this does work, then the page itself is nothing crash hot, very simple and to the point, but I hope to turn it into a React app, and maybe add some little flairs to it to help stand out. -> Got the site working, so now it updates as I push changes to the github repo.
 I plan on focusing on this project for the next week and see how far I get.
 
 **Link(s) to Work**: [Portfolio Page](https://torymos.com)
