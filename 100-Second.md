@@ -43,6 +43,17 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 42 March 18, 2021
+**Today's Progress**: Decided to work on my portfolio some more.
+
+**Thoughts**: Aiming to beef up the portfolio some more, trying to take some inspiration from modern web design's, so I'm looking at other online portfolio's & websites.
+Ended up changing the visual design a whole lot today, moved from quite a colourful page, to a more modern simple design, so it's very clean and easy to follow, without bombarding you with lots of colours. I think I'm happy enough with it to show people, just want to create an SVG to add to it, that basically shows my hobbies & interests without me having to explain them. Overall a very productive day.
+
+**Link(s) to Work**: [My Digital Portfolio](https://torymos.com)
+
+**Time**: 6-7 hours
+
+
 ### Day 41 March 17, 2021
 **Today's Progress**: Added a smooth scroll to my web page for anchor tags & began FCC's APIs & Microservices Cert.
 
@@ -60,9 +71,9 @@ Will get back to my portfolio tomorrow, got a little side-tracked today.
 **Thoughts**: Transferred my current wordpress test site to a build of my codepen portfolio page. Kind of diving into the deep end trying to figure this all out. But I think there's enough documentation from both GoDaddy and AWS to guide me through linking my custom domain to the Amplfiy App domain. If this does work, then the page itself is nothing crash hot, very simple and to the point, but I hope to turn it into a React app, and maybe add some little flairs to it to help stand out. -> Got the site working, so now it updates as I push changes to the github repo.
 I plan on focusing on this project for the next week and see how far I get.
 
-**Link(s) to Work**: [Portfolio Page](https://torymos.com)
+**Link(s) to Work**: [My Digital Portfolio](https://torymos.com)
 
-**Time**:
+**Time**: 4 hours
 
 
 ### Day 39 March 15, 2021
