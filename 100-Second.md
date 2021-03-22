@@ -43,6 +43,29 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 44 March 22, 2021
+**Today's Progress**: Spent today trying to make a spotify widget that pops open on hover.
+
+**Thoughts**: I was running through some ideas of what to add to my online portfolio, and thought of using a spotify widget. Originally disappointed by the options given by Spotify, I thought of doing a pop-up style widget using just CSS. I'm not overly happy with it, it's a bit janky, but does essentially what I wanted it to do.
+I thought it might be a cool little thing to add to the webpage, basically link to my favourite playlist. I think it might be a bit tacky though. But was still interesting to figure out how to make it work. I'm sure there's an easier way to do this with just JavaScript, so I might give that a go tomorrow.
+
+**Link(s) to Work**:
+* [Spotify Widget Test](https://codepen.io/tory24/full/abpoNrw)
+* [My Digital Portfolio](https://torymos.com)
+
+**Time**: 6 hours
+
+
+### Day 43 March 19, 2021
+**Today's Progress**: Worked on making an SVG to add to the portfolio.
+
+**Thoughts**: I know it's probably not super important, but I got a bit carried away making an SVG image for my site.
+
+**Link(s) to Work**: [My Digital Portfolio](https://torymos.com)
+
+**Time**: 
+
+
 ### Day 42 March 18, 2021
 **Today's Progress**: Decided to work on my portfolio some more.
 
