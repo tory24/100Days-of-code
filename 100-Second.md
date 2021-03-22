@@ -21,6 +21,7 @@ I am using this challenge to train positive studying habits and to help make my 
 * [FCC Technical Documentation Page](https://codepen.io/tory24/full/xxRzbPR)
 * [FCC Portfolio Page](https://codepen.io/tory24/full/PobaxLj)
 * [My Live Portfolio Site](torymos.com)
+* [Spotify Widget Test](https://codepen.io/tory24/full/abpoNrw)
 
 <!--
 ### What I Achieved after 100 Days
