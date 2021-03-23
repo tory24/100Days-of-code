@@ -44,6 +44,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 45 March 23, 2021
+**Today's Progress**: Worked on the portfolio some more, and applied for some Internships.
+
+**Thoughts**: Enjoying trying to fine tune the page, and see what I can do to make it a bit more interesting to catch a recruiter's eye.
+
+**Link(s) to Work**: [My Digital Portfolio](https://torymos.com)
+
+**Time**: 3 hours~
+
+
 ### Day 44 March 22, 2021
 **Today's Progress**: Spent today trying to make a spotify widget that pops open on hover.
 
