@@ -44,6 +44,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 46 March 24, 2021
+**Today's Progress**: Doing more work on the portfolio, and getting some advice from friends.
+
+**Thoughts**: Bit scary actually going out and getting advice from people on something I've done, but I'd need outside perspective, before I actually used it in applications.
+
+**Link(s) to Work**: [My Digital Portfolio](https://torymos.com)
+
+**Time**: 3 hours
+
+
 ### Day 45 March 23, 2021
 **Today's Progress**: Worked on the portfolio some more, and applied for some Internships.
 
