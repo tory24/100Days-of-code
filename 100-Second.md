@@ -44,10 +44,20 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 47 March 25, 2021
+**Today's Progress**: Finally figured out what to say in my about me section of my portfolio.
+
+**Thoughts**: Finally figured out what to say in my about me section, and I think it actually sounds and reads well, and isn't too long, which is the hardest part. Also made a bunch of tiny fixes to the page, and tried to do a CSS overlay transition with the email icon, but I think I'll just use some JS to do the transition instead, because it was way too finicky.
+
+**Link(s) to Work**: [My Digital Portfolio](https://torymos.com)
+
+**Time**: 4 hours
+
+
 ### Day 46 March 24, 2021
 **Today's Progress**: Doing more work on the portfolio, and getting some advice from friends.
 
-**Thoughts**: Bit scary actually going out and getting advice from people on something I've done, but I'd need outside perspective, before I actually used it in applications.
+**Thoughts**: Bit scary actually going out and getting advice from people on something I've done, but I'd need outside perspective, before I actually used it in job applications.
 
 **Link(s) to Work**: [My Digital Portfolio](https://torymos.com)
 
