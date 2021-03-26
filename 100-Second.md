@@ -44,6 +44,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 48 March 26, 2021
+**Today's Progress**: Made a few little touch ups to the site.
+
+**Thoughts**: Spent a lot of the day just making a few little changes to the page, but I realised I need to pay attention to how it works on a phone. So it works well in portrait mode, but as soon as you turn landscape the alignments are all over the place. So I might spend some time next week researching fixing up the mobile experience, which I dont have any experience in, so 
+
+**Link(s) to Work**: [My Digital Portfolio](https://torymos.com)
+
+**Time**: 2 hours
+
+
 ### Day 47 March 25, 2021
 **Today's Progress**: Finally figured out what to say in my about me section of my portfolio.
 
