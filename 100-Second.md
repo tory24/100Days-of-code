@@ -34,7 +34,7 @@ I am using this challenge to train positive studying habits and to help make my 
 **Personal Feeling's About the Challenge**
 
 
-### Day 1 March 1, 2021
+### Day 1 April 1, 2021
 **Today's Progress**:
 
 **Thoughts**:
@@ -43,6 +43,16 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Time**:
 -->
+
+### Day 49 April 2, 2021
+**Today's Progress**: Working through the FCC Microservices & API certificate.
+
+**Thoughts**: On holidays for two weeks, but figured I'd squeeze in a bit of study today. Currently learning about the Node console.
+
+**Link(s) to Work**: [Boilerplate Express](https://github.com/tory24/boilerplate-express)
+
+**Time**: 1 hour
+
 
 ### Day 48 March 26, 2021
 **Today's Progress**: Made a few little touch ups to the site.
