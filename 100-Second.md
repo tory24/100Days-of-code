@@ -47,11 +47,11 @@ I am using this challenge to train positive studying habits and to help make my 
 ### Day 50 April 12, 2021
 **Today's Progress**: Worked through the FCC API and Microservices Certificate.
 
-**Thoughts**: Wanted to work through some challenges to get me back into the swing of things, had a good few weeks off, but keen to learn more and apply for more jobs!
+**Thoughts**: Decided to work through some more challenges in FCC to get me back into the swing of things. And also spent a fair amount of time trying to refine my applicaiton for Atlassian's Internship program.
 
 **Link(s) to Work**: [Boilerplate Express](https://github.com/tory24/boilerplate-express)
 
-**Time**:
+**Time**: 4 hours
 
 
 ### Day 49 April 2, 2021
