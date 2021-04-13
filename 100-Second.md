@@ -44,6 +44,17 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 51 April 13, 2021
+**Today's Progress**: Working on the FCC API and Microservices Certificate again.
+
+**Thoughts**: Want to get through this section on 'Basic Node and Express', so I worked through a bunch of lessons. I'm a little confused about what I'm learning so I will spend time tomorrow researching further online.
+But I'm also starting to think of what project I can do that is more inline with my own passions.
+
+**Link(s) to Work**: [Boilerplate Express](https://github.com/tory24/boilerplate-express)
+
+**Time**: 4 hours
+
+
 ### Day 50 April 12, 2021
 **Today's Progress**: Worked through the FCC API and Microservices Certificate.
 
