@@ -44,6 +44,24 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 53 April 15, 2021
+**Today's Progress**: Had a bit more of a look into Express and Node.
+
+**Thoughts**: Wanted to learn a bit more about Express and Node, I didn't feel like it was explained very well in FCC.
+
+**Time**: 1 hour
+
+
+### Day 52 April 14, 2021
+**Today's Progress**: Finished through the 'Basic Node & Express' seciton
+
+**Thoughts**: Finally finished the Basic Node and Express section, really interesting to see more of how the backend works, it's something I really want to learn and understand fully eventually. And I think it's also just useful to know, even if I never have to use it.
+
+**Link(s) to Work**: [Boilerplate Express](https://github.com/tory24/boilerplate-express)
+
+**Time**: 4-5 hours
+
+
 ### Day 51 April 13, 2021
 **Today's Progress**: Working on the FCC API and Microservices Certificate again.
 
