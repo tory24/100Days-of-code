@@ -44,6 +44,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 54 April 16, 2021
+**Today's Progress**: Began the FCC MongoDB Mongoose Curriculum.
+
+**Thoughts**: This was exciting, I feel like I'm starting to really work in a real live environment, obviously not like legitimate, but I'm using real npm packages and databases. And on top of that I've put into practice some of the things I just learnt such as manually adding npm packages to the package.json file, which I did correctly after checking with the npm install mongodb/mongoose command. Keen for the next lesson.
+
+**Link(s) to Work**: [MongoDB Mongoose](https://github.com/tory24/fcc-mongomongoose)
+
+**Time**: 1 hour
+
+
 ### Day 53 April 15, 2021
 **Today's Progress**: Had a bit more of a look into Express and Node.
 
