@@ -44,6 +44,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 55 April 19, 2021
+**Today's Progress**: Applied for some roles, and had a look at how to speed up my portfolio page.
+
+**Thoughts**: Ran my site through google's page speed insights, and found that gif's are quite large files to use, particularly for mobile users. So I found out how to convert my gifs to mp4's using ffmpeg. Managed to reduce their file size quite a lot, and also realised I was still pulling the gifs from their respective Github location. So I made a folder within the project for these gifs.
+
+**Link(s) to Work**: [My Digital Portfolio](https://torymos.com)
+
+**Time**: 5 hours
+
+
 ### Day 54 April 16, 2021
 **Today's Progress**: Began the FCC MongoDB Mongoose Curriculum.
 
