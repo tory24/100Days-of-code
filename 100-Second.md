@@ -43,6 +43,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 57 April 28, 2021
+**Today's Progress**: Added some things to my portfolio.
+
+**Thoughts**: Felt that the front page for my portfolio needed a little suggestion to scroll down, so I added a double chevron to the bottom of the full page view, with an animation transition effect that occurs every 6 seconds.
+
+**Link(s) to Work**: * [My Live Portfolio Site](torymos.com)
+
+**Time**: 1 hour
+
+
 ### Day 56 April 20, 2021
 **Today's Progress**: Did some more work on learning JS backend.
 
