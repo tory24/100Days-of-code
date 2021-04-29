@@ -23,6 +23,7 @@ I am using this challenge to train positive studying habits and to help make my 
 * [My Live Portfolio Site](torymos.com)
 * [Spotify Widget Test](https://codepen.io/tory24/full/abpoNrw)
 * [Boilerplate Express](https://github.com/tory24/boilerplate-express)
+* [Google Home Page Replica](https://codepen.io/tory24/pen/PoWvzxX)
 
 <!--
 ### What I Achieved after 100 Days
@@ -42,6 +43,16 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Time**:
 -->
+
+### Day 58 April 29, 2021
+**Today's Progress**: Built a Google Search Page clone.
+
+**Thoughts**: Decided to replicate the google home page, but in the form of my own portfolio. Not sure if it's useful or interesting/overdone, but it was a bit of fun, and interesting to see how it's done. I'm thinking of maybe adding it to my current portfolio as an extra little fun element. I'm designing things through codepen first, as it updates live, then when I'm happy with it adding to the github repo. A part from refreshing a local file on a webpage, I'm not really sure how else it would be done in a way that is useful/practical, maybe it's something I should research.
+
+**Link(s) to Work**: [Google Home Page Replica](https://codepen.io/tory24/pen/PoWvzxX)
+
+**Time**: 4 hours
+
 
 ### Day 57 April 28, 2021
 **Today's Progress**: Added some things to my portfolio.
