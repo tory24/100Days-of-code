@@ -44,6 +44,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 59 April 30, 2021
+**Today's Progress**: Worked on the Google Page, and applied for a couple jobs.
+
+**Thoughts**: Continuously applying for roles, really keen to at least get to the interview stage, but it's pretty rough so far.
+
+**Link(s) to Work**: [Google Home Page Replica](https://codepen.io/tory24/pen/PoWvzxX)
+
+**Time**: 2 hours
+
+
 ### Day 58 April 29, 2021
 **Today's Progress**: Built a Google Search Page clone.
 
