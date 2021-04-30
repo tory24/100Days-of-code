@@ -47,7 +47,7 @@ I am using this challenge to train positive studying habits and to help make my 
 ### Day 59 April 30, 2021
 **Today's Progress**: Worked on the Google Page, and applied for a couple jobs.
 
-**Thoughts**: Continuously applying for roles, really keen to at least get to the interview stage, but it's pretty rough so far.
+**Thoughts**: Continuously applying for roles, really keen to at least get to the interview stage, but it's pretty rough so far. Going to do more work on the FCC course next week, I got a bit side tracked with the Google home page clone.
 
 **Link(s) to Work**: [Google Home Page Replica](https://codepen.io/tory24/pen/PoWvzxX)
 
