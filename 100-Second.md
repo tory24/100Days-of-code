@@ -34,7 +34,7 @@ I am using this challenge to train positive studying habits and to help make my 
 **Personal Feeling's About the Challenge**
 
 
-### Day 1 April 1, 2021
+### Day 1 May 1, 2021
 **Today's Progress**:
 
 **Thoughts**:
@@ -43,6 +43,16 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Time**:
 -->
+
+### Day 60 May 3, 2021
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to Work**:
+
+**Time**:
+
 
 ### Day 59 April 30, 2021
 **Today's Progress**: Worked on the Google Page, and applied for a couple jobs.
