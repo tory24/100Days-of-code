@@ -45,13 +45,13 @@ I am using this challenge to train positive studying habits and to help make my 
 -->
 
 ### Day 60 May 3, 2021
-**Today's Progress**:
+**Today's Progress**: Restarted the APIs and Microservices Mongoose Section.
 
-**Thoughts**:
+**Thoughts**: It's been a busy few weeks and I decided it would be best to just restart the Mongoose section, and start new. It fixed a few issues I had with access the Mongo Database. I plan on working through this over today and tomorrow.
 
-**Link(s) to Work**:
+**Link(s) to Work**: [Mongo/Mongoose Lesson](https://github.com/tory24/fcc-mongoose)
 
-**Time**:
+**Time**: 4 hours
 
 
 ### Day 59 April 30, 2021
