@@ -44,6 +44,16 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 61 May 4, 2021
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to Work**:
+
+**Time**:
+
+
 ### Day 60 May 3, 2021
 **Today's Progress**: Restarted the APIs and Microservices Mongoose Section.
 
