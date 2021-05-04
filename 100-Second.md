@@ -45,13 +45,13 @@ I am using this challenge to train positive studying habits and to help make my 
 -->
 
 ### Day 61 May 4, 2021
-**Today's Progress**:
+**Today's Progress**: Finished the MongoDB & Mongoose Course in the APIs and Microservices Cert.
 
-**Thoughts**:
+**Thoughts**: Is nice to get back into the studying rhythm, however the way the backend is being taught leaves a bit to be desired. So 
 
-**Link(s) to Work**:
+**Link(s) to Work**: [Mongo/Mongoose Lesson](https://github.com/tory24/fcc-mongoose)
 
-**Time**:
+**Time**: 3 hours
 
 
 ### Day 60 May 3, 2021
