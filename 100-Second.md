@@ -24,6 +24,7 @@ I am using this challenge to train positive studying habits and to help make my 
 * [Spotify Widget Test](https://codepen.io/tory24/full/abpoNrw)
 * [Boilerplate Express](https://github.com/tory24/boilerplate-express)
 * [Google Home Page Replica](https://codepen.io/tory24/pen/PoWvzxX)
+* [Mongo/Mongoose Lesson](https://github.com/tory24/fcc-mongoose)
 
 <!--
 ### What I Achieved after 100 Days
