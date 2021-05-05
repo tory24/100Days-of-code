@@ -45,6 +45,14 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 62 May 5, 2021
+**Today's Progress**: Started the APIs & Microservices final certificate projects.
+
+**Thoughts**: Started the first project, Timestamp Microservice. Didn't get much time to work on it, but I want to have it done by tomorrow.
+
+**Time**: 2 hours
+
+
 ### Day 61 May 4, 2021
 **Today's Progress**: Finished the MongoDB & Mongoose Course in the APIs and Microservices Cert.
 
