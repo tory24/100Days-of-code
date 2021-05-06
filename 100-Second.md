@@ -25,6 +25,7 @@ I am using this challenge to train positive studying habits and to help make my 
 * [Boilerplate Express](https://github.com/tory24/boilerplate-express)
 * [Google Home Page Replica](https://codepen.io/tory24/pen/PoWvzxX)
 * [Mongo/Mongoose Lesson](https://github.com/tory24/fcc-mongoose)
+* [Timestamp Challenge](https://github.com/tory24/timestamp-fcc)
 
 <!--
 ### What I Achieved after 100 Days
@@ -44,6 +45,20 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Time**:
 -->
+
+### Day 63 May 6, 2021
+**Today's Progress**: APIs & Microservices Cert.
+
+**Thoughts**: Completed the first challege of the APIs cert, I wasn't able to do it without using the hints, however I wasn't satisfied with the answer they gave, because it;
+    a/ didn't pass the tests,
+    and b/ didn't account for all possible inputs such as the any dates with a year of 5 digits, since the unix time in 64-bit systems can go to the year 23000+.
+However even though that wasn't the point of the question, I learnt a bit about timestamps & also the GET request.
+Also, managed to get an interview, so excited for that!
+
+**Link(s) to Work**: [Timestamp Challenge](https://github.com/tory24/timestamp-fcc)
+
+**Time**: 4 hours
+
 
 ### Day 62 May 5, 2021
 **Today's Progress**: Started the APIs & Microservices final certificate projects.
