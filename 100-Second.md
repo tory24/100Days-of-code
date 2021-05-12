@@ -46,6 +46,22 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 65 May 11, 2021
+**Today's Progress**: Studying HashMaps.
+
+**Thoughts**: Spent all day studying HashMaps. It's brought about an important aspect to programming that I am aware of but have so far avoided as it was more important to learn the fundamentals before getting into the technical side of things. It's lead me into studying the technical performance of code, and keeping in mind the speed and memory usage. This is also what my interviewer was looking for in my code. So I looked into Big O notation, and HashMaps vs Loops.
+
+**Time**: 4-5 hours
+
+
+### Day 64 May 9, 2021
+**Today's Progress**: Spent some time looking into HashMaps in JavaScript.
+
+**Thoughts**: I had a job interview last friday, it went well, however I was unable to complete the technical question they had me do in the way they wanted, which was using a HashMap. So I spent some free time tonight looking into HashMaps and taking down some notes, preparing for a potential second interview. Regardless of whether I get a second chance, I think this will be an important topic to cover, as it seems like it's important for frontend development.
+
+**Time**: 1.5 hours
+
+
 ### Day 63 May 6, 2021
 **Today's Progress**: APIs & Microservices Cert.
 
