@@ -46,6 +46,14 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 66 May 12, 2021
+**Today's Progress**: Continued study of HashMaps and Data Structures in JS.
+
+**Thoughts**: Continued looking into HashMaps, and it lead to looking into other Data Structures, like queues, linked lists and stacks. I went in depth into the differences between Maps and Objects, and when its better to use one or the other. I just want to look a bit further to clarify a few terms, and plan on doing some exercises tomorrow through LeetCode, and implement HashMaps to find a result.
+
+**Time**: 5 hours
+
+
 ### Day 65 May 11, 2021
 **Today's Progress**: Studying HashMaps.
 
