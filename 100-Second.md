@@ -46,6 +46,14 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 67 May 13, 2021
+**Today's Progress**: Worked through some leetcode questions.
+
+**Thoughts**: Decided to try understand how hashmaps work in algorithm problems. A bit trickier than I expected, however I am starting to understand how it works, at least in small, fairly simple problems.
+
+**Time**: 5 hours
+
+
 ### Day 66 May 12, 2021
 **Today's Progress**: Continued study of HashMaps and Data Structures in JS.
 
