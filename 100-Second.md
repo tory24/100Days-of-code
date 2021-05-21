@@ -46,6 +46,55 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 73 May 21, 2021
+**Today's Progress**: Decided to test my Reactjs skills and build an NRL site clone, and learn how to use API calls in React.
+
+**Thoughts**: Been a bit slack with committing, it's been a busy few days. But I have still been studying, just haven't committed much.
+
+**Time**:
+
+
+### Day 72 May 20, 2021
+**Today's Progress**: Worked on a backend challenge.
+
+**Thoughts**: Trying to learn a bit more about the backend, and see if I can create a small project that uses a RESTful API.
+
+**Time**: 3 hours
+
+
+### Day 71 May 19, 2021
+**Today's Progress**: Prepared for my second interview today.
+
+**Thoughts**: Spent the morning preparing for my interview, just touched up on some things that I thought I might be questioned on, and worked through some final leetcode problems, to prepare for potentially some more coding tests during the interview.
+P.S. I think it went well.
+
+**Time**: 4 hours
+
+
+### Day 70 May 18, 2021
+**Today's Progress**: Spent the day preparing for an interview tomorrow.
+
+**Thoughts**: Looked into a whole range of things, from leetcode challenges, to going over notes I made from my previous interview, to reading a few blogs about working as a developer, and getting through the interview process.
+
+**Time**: 5-6 hours
+
+
+### Day 69 May 17, 2021
+**Today's Progress**: Leetcode Challenges, and looking into Hashmaps.
+
+**Thoughts**: Spent the day working through a few leetcode challenges, they were pretty challenging, but I was trying to utilise objects and hashmap to find the fastest and most efficient code for the problem.
+
+**Time**: 5 hours
+
+
+### Day 68 May 14, 2021
+**Today's Progress**: Spent some time updating and organising my study notes.
+
+**Thoughts**: Wanted to clean up and organise my notes, getting a bit cluttered and was a bit confusing going through and finding things. Also tried to fill in a few gaps, and looked into hashmaps, objects and Sets.
+
+**Time**: 1-2 hours
+
+
 ### Day 67 May 13, 2021
 **Today's Progress**: Worked through some leetcode questions.
 
