@@ -49,9 +49,9 @@ I am using this challenge to train positive studying habits and to help make my 
 ### Day 73 May 21, 2021
 **Today's Progress**: Decided to test my Reactjs skills and build an NRL site clone, and learn how to use API calls in React.
 
-**Thoughts**: Been a bit slack with committing, it's been a busy few days. But I have still been studying, just haven't committed much.
+**Thoughts**: Been a bit slack with committing, it's been a busy few days. But I have still been studying, just haven't committed much. Began working on a frontend design for a friend's project. I aim to build a React based frontend which draws data from his app, and displays it in a user friendly way. The aim is to challenge myself and learn a bit about React APIs and just generally understand React some more.
 
-**Time**:
+**Time**: 4 hours
 
 
 ### Day 72 May 20, 2021
@@ -69,7 +69,7 @@ I am using this challenge to train positive studying habits and to help make my 
 P.S. I think it went well.
 
 **Time**: 4 hours
-
+s
 
 ### Day 70 May 18, 2021
 **Today's Progress**: Spent the day preparing for an interview tomorrow.
