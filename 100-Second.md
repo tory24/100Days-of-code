@@ -46,6 +46,14 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 74 May 22, 2021
+**Today's Progress**: Spent today working on a small nrl react project.
+
+**Thoughts**: Decided to help a mate with his NRL project, he asked me to help build a frontend for his NRL App. Today was difficult got a bit stuck for a bit, but eventually figured out how I was going to do it, and am hoping that tomorrow I will get to learn about how to use an API in React properly to generate useful data to the page. I think this is a cool way to actually learn and build something that I have an interest in.
+
+**Time**: 7 hours
+
+
 ### Day 73 May 21, 2021
 **Today's Progress**: Decided to test my Reactjs skills and build an NRL site clone, and learn how to use API calls in React.
 
