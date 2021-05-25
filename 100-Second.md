@@ -46,7 +46,15 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
-### Day 74 May 22, 2021
+### Day 75 May 25, 2021
+**Today's Progress**: Worked on the NRL Project, fixed the Draw component and got it to display the data for each round.
+
+**Thoughts**: Spent all day working on learning how to use API calls within React, and being able to display them properly in a component. I also figured out how to correctly reduce repeated code in React, and seperated components into individual files, which helped me declutter. This project has been suuuper useful with understand how to utilise the versatility of React, as well as learn about how the lifecycle methods work a little better. I accidentally didn't create a safeguard for the componentDidUpdate method, so it just continuously updated and could potentially crash a browser.
+
+**Time**: 7-8 hours
+
+
+### Day 74 May 24, 2021
 **Today's Progress**: Spent today working on a small nrl react project.
 
 **Thoughts**: Decided to help a mate with his NRL project, he asked me to help build a frontend for his NRL App. Today was difficult got a bit stuck for a bit, but eventually figured out how I was going to do it, and am hoping that tomorrow I will get to learn about how to use an API in React properly to generate useful data to the page. I think this is a cool way to actually learn and build something that I have an interest in.
