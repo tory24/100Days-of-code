@@ -46,6 +46,22 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 77 May 27, 2021
+**Today's Progress**: Worked on the ladder component.
+
+**Thoughts**: Tried working out how to display the relevant data in each row. Had an issue trying to do this.state.foo.forEach(), turns out that doesn't work for JSON files, so I just used .map(). Got the <th> row to work, but struggling with displaying the stats for each column and making usre the stat lines up with the correct team. Hopefully it clicks tomorrow, might brute force it then try a simpler method.
+
+**Time**: 6 hours
+
+
+### Day 76 May 26, 2021
+**Today's Progress**: Worked on fixing the draw component.
+
+**Thoughts**: Spent the day fixing the draw component, it is now more responsive to the page and displays time, date, score as well as displaying the scores in bold for the winning team. Might see if it can do live scores this weekend.
+
+**Time**: 7 hours~
+
+
 ### Day 75 May 25, 2021
 **Today's Progress**: Worked on the NRL Project, fixed the Draw component and got it to display the data for each round.
 
