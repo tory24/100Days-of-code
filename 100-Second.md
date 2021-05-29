@@ -46,6 +46,14 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 78 May 28, 2021
+**Today's Progress**: Worked some more on the ladder.
+
+**Thoughts**: I've come to find that the ladder is much harder to figure out than expected, and trying to display the correct data in order is a bit confusing. I think I'll have to sort through the data and create a new object of the information I want, in nested objects, so each stat is under a team_id. Whereas at the moment each stat is its own object, with a team_id.
+
+**Time**: 2-3 hours
+
+
 ### Day 77 May 27, 2021
 **Today's Progress**: Worked on the ladder component.
 
