@@ -46,6 +46,14 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 79 May 31, 2021
+**Today's Progress**: Finally got the ladder starting to work.
+
+**Thoughts**: Finally had the ladder working, but the code I wrote is asynchronous, and so is trying to update before it actually has the data. Trying to figure out how to make it run in order, but am coming up empty. Going to give it another go tomorrow.
+
+**Time**: 5 hours
+
+
 ### Day 78 May 28, 2021
 **Today's Progress**: Worked some more on the ladder.
 
