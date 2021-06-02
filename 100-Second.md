@@ -36,7 +36,7 @@ I am using this challenge to train positive studying habits and to help make my 
 **Personal Feeling's About the Challenge**
 
 
-### Day 1 May 1, 2021
+### Day 1 June 1, 2021
 **Today's Progress**:
 
 **Thoughts**:
@@ -45,6 +45,14 @@ I am using this challenge to train positive studying habits and to help make my 
 
 **Time**:
 -->
+
+### Day 80 June 1, 2021
+**Today's Progress**: Spent time still trying to make the component synchronous.
+
+**Thoughts**: Been struggling to figure out how to make the component synchronous, ended up asking for help. The way it was done was using async-await, between the fetch request and componentDidMount hook. This way the components don't mount until the data is pulled. Then in the componentDidUpdate, we sort the data into something more usable for the table. A bit disappointing that I couldn't figure this out myself, but I'll hopefully be able to use this in future. Next thing to do, is to learn how to make the table sortable by column.
+
+**Time**: 3 hours~
+
 
 ### Day 79 May 31, 2021
 **Today's Progress**: Finally got the ladder starting to work.
