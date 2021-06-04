@@ -46,6 +46,27 @@ I am using this challenge to train positive studying habits and to help make my 
 **Time**:
 -->
 
+### Day 82 June 4, 2021
+**Today's Progress**: Came back to the column issue with a fresh mind. Very close to having sorted this out!
+
+**Thoughts**: Decided that an object just wasn't the way to go about this. It can't be reordered, and iteration and access can get messy quickly. So I redid the object storing in the form of a hashmap using the Map Object. It kept the same layout, but became infinitely easier to access what I wanted, and it also maintains it's insertion order which is perfect for this.
+So I managed to get the map to reorder based on which button on the table header was pressed. It probably wasn't the most elegant solution, but it worked none-the-less.
+However I found some issues with using a Map Object, as it does not like the use of 'return' when iterating through it, return will cause the iteration to stop, so only 1 team is being rendered. Hopefully there is a workaround, otherwise I'll have to use nested arrays, which is not ideal.
+
+IDEAS:
+* Create a generic function to plug into seperate functions that takes the given state parameter and sorts by the input given.
+
+**Time**: 4-5 hours
+
+
+### Day 81 June 2, 2021
+**Today's Progress**: Again couldn't figure out the column sorting.
+
+**Thoughts**: Spent the day trying to solve this issue again, with no luck. Each solution I have gets messed by the way I've store the stats in the object.
+
+**Time**: 4 hours
+
+
 ### Day 80 June 1, 2021
 **Today's Progress**: Spent time still trying to make the component synchronous.
 
